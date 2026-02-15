@@ -1,0 +1,1797 @@
+review_id,publish_date,rating,company_size,job_title,full_content,is_ai_relevant
+10670472,2024-12-19T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Support Manager,"What do you like best about Intercom?
+The product itself is intuitive and robust and the investment the company has put into its AI offering has really paid off. We've seen a massive improvement in the AI chatbot's answers which are now deflecting around 50% of our conversations and allowing our team to work on more complex issues. The tool integrates with a ton of other products and serves most of the needs we have at the moment. The Customer Support team, as well as our Relationship Manager, are excellent and always super helpful.
+
+What do you dislike about Intercom?
+It's not great for small companies that have multiple products. We are a small support team that wants to be able to support two different customer bases using two different products on different domains in the same workspace, but we currently have to manage two workspaces for the same team. It's also pricey compared to other help desk software, especially since each add on tends be an additional cost. The pricing model is also not great for our business model as far as using the tool for multiple departments (Support, Marketing, and Sales)—if we used it for all three, we would blow out our budget in one of those departments since we have to choose either active users or people reached to be billed for. Because of that, we had to reduce the amount of outbound contacts we were making with Intercom and focus on using it solely as a Support tool.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom's investment in improving automation—both to handle customer conversations and to make support processes less manual—is solving operational inefficiencies and making it so that we can help more customers as our company grows without having to hire more people to the Support team.",True
+10660491,2024-12-17T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer support agent,"What do you like best about Intercom?
+For me, the most beneficial feature is the easy way that I can create emails and chats to the different areas and people that I am constantly responsible for assisting. I work 5 days a week and have different interactions with customers every day, but this tool just makes it easier for me to provide good customer support, make it clear, and also for them to understand our way of communicating via emails or chats.
+
+What do you dislike about Intercom?
+Perhaps one of the things that could be a problem for me is just the double chats and emails that I'm getting all the time, but at this point, I know how to deal with them and integrate them into the new ones with the clients and how professional I have to be, apply the knowledge that I have and provide the best for those situations.
+
+What problems is Intercom solving and how is that benefiting you?
+It is an easy way to communicate and resolve any questions or doubts that we constantly get from our customers. It helps me to let them know all the details about it, for anything they need, or also to send documentation most easily.",True
+10656024,2024-12-17T00:00:00,4.5,Mid-Market(51-1000 emp.),Director of Support,"What do you like best about Intercom?
+We are a business inteligence company and have been using Intercom for 7 years for B2B. And we love it! Especially in the last few years, Intercom has proven over and over again that they are a leader in taking advantage of tech innovations and using it to launch new features. The turnaround time is fast which allows them to be ahead of their competition.
+
+What I like about the tool the most:
+1. Good UX that's easy to use by our reps
+2. Lots of important features that every CS team needs like workflows, views, AI copilot, reports, API for building more custom reports, managers having a clear overview of all queues and rep statuses
+3. AI Chatbot (Fin) which, after it's well set up, adds real value to the day to day work and saves a ton of time that reps can then invest in other more impactful areas.
+4. Lots of options to customize the messenger popup, AI bot handoff steps, etc..
+
+What do you dislike about Intercom?
+When pushing custom properties into Intercom (like company or contact data), things can get messy really fast. When editing workflows, chat campaigns, or rules, there's no indicator if the selected property is a company or contact property, or any other type of property. This makes it very time consuming to set up and maintain automations and workflows. It also makes it harder to handoff admin responsibilities to another rep at the company.
+
+Whenever I asked for practical insight into how to set up workflows or the AI bot, the only resources I got access to were case studies or blog posts which don't talk about any specific ways how to set up e.g. the handoff sequence of Finbot. I'd love to learn more about how other companies solve some of the challenges we have, or have Intercom walk me through the setup. I eventually figured everything out but it'd help to have more guidance during the first steps of adoption.
+
+What problems is Intercom solving and how is that benefiting you?
+Offering live assistance to our to help them adopt the product faster (it helps us fill the gaps in areas where PLG isn't working yet)",True
+10640835,2024-12-12T00:00:00,5.0,Mid-Market(51-1000 emp.),Director of Clinician Support,"What do you like best about Intercom?
+The chat modality has been a game changer for our business, allowing us to provide near-instant support where previously we had been spread across multiple channels. We have been able to integrate several channels/apps that we use, which additionally helps with triaging feedback and customer concerns. The team orients to it quickly, and are able to move within it without too much confusion. We use it all day, every day, and it has been a game changer for our org.
+
+What do you dislike about Intercom?
+There are some data limitations that affect us; it would be great if they could make that side of things more robust.
+
+What problems is Intercom solving and how is that benefiting you?
+It used to take a solid amount of time to respond to issues that our users were having, because the team was spread so thin across so many platforms, and it was impossible to actually engage with each of those platforms completely. With Intercom, our turnaround time for providing support is MINUTES. It benefits both our team, and our customers, so we can continue to grow and provide the exceptional level of support we have been.",True
+10590459,2024-12-02T00:00:00,4.0,Mid-Market(51-1000 emp.),Head of Implementation & Support,"What do you like best about Intercom?
+Outbound tooling that allows for direct 'in-context' communication. The possibilities to give your customer the context/support they need at the point where they need it, allows for a smooth and effortless experience for your end-user. In combination with the omni-support channels, I think it is a very complete product.
+
+What do you dislike about Intercom?
+The combination of conversation and tickets is a bit strange, as they both seem to leverage the same underlying object. This causes some strange behavior at times in applying automations regarding SLAs or conversions. In the end this impacts in gaining proper insights in how we have performed.
+
+What problems is Intercom solving and how is that benefiting you?
+A quick and direct way to communicate with our userbase. The barrier of reaching out to our users and getting proper responses have dropped significantly. In the end the conversational support model is adopted for our support services. Even though we're setting everything up around chatbots and AI, we know we can scale with Intercom and allow for in-context support and communication.",True
+10561743,2024-11-25T00:00:00,5.0,Small-Business(50 or fewer emp.),Senior Academic Operations Manager,"What do you like best about Intercom?
+The AI components within Intercom are awesome. The AI Agent has saved my teams tons of time on inquiries. We thouroughly enjoy watching Fin work its magic answering our common questions!!
+
+I love that Fin gains its knowledge from all of ours assets - Custom Answers, highly rated conversations, Articles, and Snippets, and that Intercom has created a Knowledge Hub where we can organize all of these for easy updating and creation!
+
+What do you dislike about Intercom?
+They've been working on reporting and metrics, which is great. They could use a little more work so you can have more customization on what you want to view.
+
+Intercom's own customer support has gotten better as well but it can still take a while to hear back or get help. Sometimes the support people seem to need to get additional support or questions answered before they get back to you.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is improving customer support for all users. My company has recently moved one of our teams off of Front and into Intercom because of the success our teams using Intercom have had. Intercom is a great platform for automation and teams to collab on conversations.",True
+10545848,2024-11-21T00:00:00,5.0,Mid-Market(51-1000 emp.),Agent,"What do you like best about Intercom?
+Every important matter is highligthed, you receive a lot of updates,a nd notifications about it, and also everything can be toggled to be seen or hided.
+
+I use the app evey day, and 1 to 2 times a week, I receive either updates, advices, and paths to learn how easy the tasks are when you use intercom.
+
+Also, the support that the app gives you in the chat is very high, ver effective, and very fast.
+
+What do you dislike about Intercom?
+I dislike that sometimes, the app overloads with information and starts to run slowly, and you can either wait until crashes, or you can refresh it for a temporal solution. Sometimes, the app needs you to restart the pc in order to start working good again.
+
+I don't like that some of the vital points of the app are not very well integrated, or related between them (Things like datapoints, and quick links) and sometimes, the relation between those is outdated, and creates an issue in the information.
+
+What problems is Intercom solving and how is that benefiting you?
+Payment processes, repayment processes, tech support, and customer support.",True
+10551780,2024-11-22T00:00:00,5.0,Mid-Market(51-1000 emp.),Support agent,"What do you like best about Intercom?
+Intercom allows us to manage both reactive and proactive support, set automations to provide customer support in context, and make the best of our resources.
+Implementation and onboarding of the team was a breeze, and we continue to learn its features with Intercom Community and Academy.
+
+What do you dislike about Intercom?
+While Intercom gives a great solution to house our help center, formatting and editing are not very flexible, so we feel we're constricted in terms of fonts, images, and interactive elements.
+Additionally, we've had some issues with integrations mainly with Salesforce and Client success.
+
+What problems is Intercom solving and how is that benefiting you?
+As our company grew, we started to see that reactive support was not enough. We needed to be able to lead our customers in-app, even when they didn't know they needed guidance. In this way, we've managed to give customers autonomy in learning and using our product, thus reducing recurring questions for both our support and customer success teams.",True
+10454425,2024-11-05T00:00:00,5.0,Small-Business(50 or fewer emp.),Head of Marketing,"What do you like best about Intercom?
+Intercom has saved me an outrageous amount of time over the last two months. As a sole marketer (who also handles the whole communication flywheel), Intercom Series have been a gamechanger for me. I have built email and chat flows across our whole sales funnel, from trial signup and activation to customer onboarding and review campaigns.
+
+Series are super easy to setup (from product events triggering automated outreach to email actions opening up automated email flows).
+
+Intercom integrates with all of the tools in our tech stack and with our product really easily.
+
+What do you dislike about Intercom?
+The only downside to using Intercom is that I don't have a team around me helping with activation and customer onboarding. I don't think I've saved more time with any other tool (besides ChatGPT).
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom takes over the role of founder, marketer, salesperson and customer support in all of our automated series and through the chatbot. I've created onboarding workflows, product feature guides, activation checklists, you name it.",True
+10525763,2024-11-18T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success Specialist,"What do you like best about Intercom?
+Intercom took every main need Customer Support teams need to executure the best job for our customers and turned it into a high quality, multi-functional use for CS teams- and did so while making it the most user-friendly application. Our team has used other *big name apps I won't mention* and we all have agreed Intercom is the BEAST of these. Not only does Intercom hardly lack featues, they consistantly listen to the needs of teams and work accordingly. I don't ever see us not having Intercom in our journey.
+
+What do you dislike about Intercom?
+There really are no dislikes about Intercom. Is there features they lack? I mean, yea. Just lik every other app in this world. With Intercom, you can count on your voice being heard and your needs deeply considered.
+
+What problems is Intercom solving and how is that benefiting you?
+The ease of customization to fit our business and the customers' needs within it.",True
+10525763,2024-11-18T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success Specialist,"What do you like best about Intercom?
+Intercom took every main need Customer Support teams need to executure the best job for our customers and turned it into a high quality, multi-functional use for CS teams- and did so while making it the most user-friendly application. Our team has used other *big name apps I won't mention* and we all have agreed Intercom is the BEAST of these. Not only does Intercom hardly lack featues, they consistantly listen to the needs of teams and work accordingly. I don't ever see us not having Intercom in our journey.
+
+What do you dislike about Intercom?
+There really are no dislikes about Intercom. Is there features they lack? I mean, yea. Just lik every other app in this world. With Intercom, you can count on your voice being heard and your needs deeply considered.
+
+What problems is Intercom solving and how is that benefiting you?
+The ease of customization to fit our business and the customers' needs within it.",True
+10579269,2024-11-28T00:00:00,5.0,Small-Business(50 or fewer emp.),Solutions Engineer Lead,"What do you like best about Intercom?
+Intercom has revolutionized how our team handles customer support. The AI features, particularly Fin, have drastically reduced response times by addressing repetitive inquiries and freeing up our team to tackle complex issues. We love how easy it is to build workflows, automate outreach, and manage customer interactions across multiple channels. The Knowledge Hub is a fantastic feature, enabling us to centralize resources like articles and FAQs for seamless updates. Intercom's integrations with our tech stack are top-notch, making it incredibly versatile and efficient.
+
+What do you dislike about Intercom?
+Occasionally, we’ve encountered minor lags when the platform is processing a high volume of data.
+A lot of features we would like to try out but can get quite expensive quite fast for small teams.
+
+What problems is Intercom solving and how is that benefiting you?
+Helping us to supercharge our customer support by creating custom workflows and proactive support based on customer segmentation",True
+10585542,2024-12-15T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Concierge Specialist,"What do you like best about Intercom?
+Intercom was a great help to me in improving my skills on how to provide a precise and concised information to my clients. It was easy to use as it provides you all the necessary response template. All you have to do is click on it. I use it everday at work so I was able to provide an exceptional customer service to my clients.
+
+What do you dislike about Intercom?
+Intercom is useful in checking the footprint of all the clients I have interacted with. But there are times it will take for a minute for Intercom to sync all the contacts history.
+
+What problems is Intercom solving and how is that benefiting you?
+It solves my problem with composing my words correctly since Fin the AI was more accurate in giving me the right responses and articles to reference with.",True
+10391586,2024-10-21T00:00:00,4.5,Mid-Market(51-1000 emp.),Senior IT Project Manager,"What do you like best about Intercom?
+One of the best features, ticketing, allows me to create customer cases and track their requests; you can also see how many agents are focused on a customer's request and establish internal communication. This application is essential for improving customer service through chat, email, social media, technical support, and other channels. The application's built-in chat and messaging capabilities enable instant interaction with customers. This greatly improves response times and overall customer service satisfaction. By effectively handling repetitive questions, automation solutions such as workflows and chatbots have also greatly reduced our team's workload. Intercom is a well-structured program that anyone can use with ease.
+
+What do you dislike about Intercom?
+I can't predict the best results, and it's often difficult to find what you're looking for when searching for a name or even an email address, so I wish there was a better alternative with its search bar.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has allowed us to strengthen the bond with our customers, which allows us to provide them with the highest quality service. It has made our customer service more efficient and improved user engagement. Our team can now focus more on strategic issues and customer success because of the time saved by automating routine processes. We have successfully organized the priority levels of all ticket requests, starting from the lowest to the most urgent. We can also use this feature to change the ticket status from Open to Awaiting Third Party. This makes our work much more efficient. Large companies and their customer portfolios can easily adapt to the speed of this tool.",True
+10378056,2024-10-16T00:00:00,5.0,Mid-Market(51-1000 emp.),Director of Customer Accounts,"What do you like best about Intercom?
+Not only is Intercom great with the features that they provide, but enabling them and using them is super simple.  They have really great help articles and guides on how to build and use the software.  A lot of times you can just get in and play around and figure things out really quickly because the software is so user-friendly.  Fin AI agent is helping our team answer questions more efficiently and helping us to take care of more customers with less people.  From Fin Ai to tracker tickets to help in our bug resolution process, Intercom is reaching into a lot of different parts of our business to make us more efficient and take care of issues more quickly.
+
+What do you dislike about Intercom?
+I really can't think of anything, love everything about this software.
+
+What problems is Intercom solving and how is that benefiting you?
+It is allowing us take care of more clients with fewer agents and the interactions with customers are better because they get answers more quickly.",True
+10373951,2024-10-15T00:00:00,5.0,Small-Business(50 or fewer emp.),Founder,"What do you like best about Intercom?
+What I like the most about Intercom is the seamless possibility to integrate it with our backend and all of our tools. Additionally, the wide variety of channels available to chat with our users—whether it's live chat, email, or in-app messaging—has made communication much more flexible and effective.
+
+What do you dislike about Intercom?
+What I dislike about Intercom is that, unfortunately, once you exit the 95% discount of the startup program, the pricing becomes quite hefty. This has led us to downgrade some of the amazing tools and features in order to save costs, which is a bit disappointing given how valuable they were for our operations.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is solving the challenge of delivering a seamless user experience for our customers while providing us with a great deal of freedom thanks to its customizable workflows. The automation and workflows allow us to efficiently manage customer interactions at scale, ensuring that users get quick, relevant responses without overwhelming our support team.",True
+10366336,2024-10-13T00:00:00,4.5,Mid-Market(51-1000 emp.),Head of Support,"What do you like best about Intercom?
+We've been using Intercom and Fin, and it's been a lifesaver! Fin has been great at sorting through all the junk and flagging the real issues that only humans can handle. Plus, it was super easy to set up, and the Intercom support team has been awesome whenever we've run into any problems. The platform itself is really powerful for customer support, and the integrations with other apps we use have been a huge bonus. I definitely recommend it to anyone looking for a top-notch customer support solution!
+
+What do you dislike about Intercom?
+Intercom’s Fin has been a great addition to our team, but we’ve encountered one major issue. When we use it for email support, there’s no threading, which can get messy. Other than that, there are a few minor quirks, but nothing that’s a big deal. Overall, we’re happy with Intercom and Fin, but we hope they can address the email threading issue with Fin soon.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is our go-to tool for handling customer support inquiries. It helps us keep track of all our conversations, prioritize tickets, and provide efficient support. We also use it to capture inbound sales leads from our website, making it easier to follow up and convert potential customers.",True
+10343758,2024-10-06T00:00:00,4.5,Small-Business(50 or fewer emp.),Co-Founder,"What do you like best about Intercom?
+We are a SaaS startup that began using Intercom three years ago. The Intercom Startup Program gave us significant cost savings during our first year. By integrating Intercom into our service, we’ve been able to offer instant assistance to our site visitors and users. The platform’s extensive documentation and responsive support have been invaluable in helping us take full advantage of its features. I highly recommend Intercom—it has streamlined our support workflows, saving both time and money while enabling us to provide more efficient service to our customers.
+
+What do you dislike about Intercom?
+While Intercom has good documentation, some users report slower response times from Intercom's own support team, which can be frustrating if you're dealing with a time-sensitive issue.
+
+What problems is Intercom solving and how is that benefiting you?
+We required a solution to offer real-time assistance to our site visitors and users, and Intercom’s live chat and automation features enabled us to respond swiftly, ensuring customer inquiries are handled efficiently. Additionally, we leveraged Intercom to create a help center for our customers, providing access to documentation and video tutorials that significantly simplified onboarding and enhanced the user experience with our platform.",True
+10352236,2024-10-08T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support Specialist,"What do you like best about Intercom?
+As a customer support for over 7 years, I have used different types of CRM and I can say that Intercom is one of the most user-friendly! Not just that, it is easy to set up their Automations and FinAI is the best! Ever since we used their ""Suggested Help Articles"" we have been getting fewer tickets. So helpful!
+
+What do you dislike about Intercom?
+Right now, I can't think of anything, to be honest. So far, my experience with Intercom is great!
+
+What problems is Intercom solving and how is that benefiting you?
+I'm working as an Admin Assistant for this company and when I started they had a huge backlog, it was over 5K. However, since Intercom is easy to use, I was able to close all the tickets in less than a week. I really love Intercom's Suggested Help Articles! Most of the time we only get tickets (emails/chats) from our user if that is something they can't do on their end.",True
+10326808,2024-10-04T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success Manager / HR Manager,"What do you like best about Intercom?
+Having access to the appropriate tools is crucial for me as our company's Customer Success Manager, since it determines our effectiveness and influence. For our team, Intercom's FIN AI Copilot has changed everything. Our operations and communication quality have significantly improved as a result of our capacity to rapidly access knowledge, automate responses, and provide real-time customer support.
+
+My team has saved time on repetitive chores by using the AI Copilot's intuitive interface to swiftly access accurate information. Because of this, we are able to concentrate on offering our clients higher-value services, which has increased our response times and customer satisfaction levels. It's been a huge help to be able to optimize procedures without sacrificing service quality.
+
+One particularly noteworthy aspect is the clever suggestion engine. The program makes sure that everyone is on the same page and gives team members—especially the more recent hires—greater confidence in their interactions by recommending suitable answers based on previous encounters. Furthermore, because the AI can learn from repeated interactions, it continuously adjusts to meet our needs and gradually increases our efficiency.
+
+What do you dislike about Intercom?
+Because Intercom has so many capabilities, new users or those not accustomed with the platform may find it daunting at times. Without significant training, navigating the depth of capability can be challenging.
+
+What problems is Intercom solving and how is that benefiting you?
+Live chat, automatic messaging, and FIN AI Copilot are just a few of the communication solutions offered by Intercom that enable speedier and more efficient replies. The Customer Success team saves time by providing precise replies without requiring additional investigation thanks to AI-driven insights. Better customer loyalty and retention result from this, which in turn leads to longer-term company growth and fewer churn problems.",True
+10256035,2024-09-16T00:00:00,5.0,Small-Business(50 or fewer emp.),Co-Founder and Manager,"What do you like best about Intercom?
+I use the Intercom chat service daily, and overall, it’s an excellent platform. The interface is intuitive and user-friendly, making it easy to navigate and manage multiple conversations at once.
+I particularly appreciate how simple it is to insert files directly into chats, which helps streamline communication. The tool is also reliable and efficient, rarely having any downtime or issues. The search function generally works well, allowing me to quickly find previous conversations when needed.
+
+What do you dislike about Intercom?
+One small area for improvement is the search functionality. Occasionally, the results are a bit confusing, as the chats are not always sorted properly by date, which can make finding the correct conversation harder. It would be great to see this refined in future updates. Aside from that, I’m very satisfied with the service and highly recommend it!
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is solving the challenge of daily communication with customers, allowing me to efficiently manage multiple conversations at once.
+With its user-friendly interface and reliable features, I can easily provide customer support, track conversations, and respond promptly.
+This tool helps me stay organized and productive, enabling me to do my job effectively and maintain smooth communication with our clients.",True
+10256007,2024-09-16T00:00:00,5.0,Mid-Market(51-1000 emp.),VP of Customer Support,"What do you like best about Intercom?
+Intercom is an exceptional platform for customer experience, support, and engagement. Its user-friendly interface and dynamic features promote seamless product adoption. What stands out most is their team—support, sales, and account management all genuinely value feedback and foster a true partnership. Intercom's focus on AI has been a game-changer, saving us time and money. It's rare to find a vendor that feels like an extension of your team, and Intercom excels in both their product and customer relationship.
+
+What do you dislike about Intercom?
+While the platform excels overall, there are a couple of areas for improvement. The reporting features could be more robust, and some workflows could offer greater flexibility. However, these are largely personal preferences rather than flaws in the product.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps us streamline customer support, enhance engagement, and drive product adoption. Its live chat and automated workflows allow us to respond quickly to customer inquiries, improving satisfaction and reducing support response times. The platform's AI features save us time and resources by automating repetitive tasks, while its dynamic capabilities help us tailor customer interactions more effectively. This has led to improved efficiency, better customer experiences, and cost savings across our organization.",True
+10592368,2024-12-02T00:00:00,5.0,Small-Business(50 or fewer emp.),Head of Customer Experience,"What do you like best about Intercom?
+Loads of features that make it really easy to create specific experiences when you have a complicated product, the workflows tool is way better than any competitors.
+
+Super easy to use and manage your conversation workload. Our agents really enjoy using it and much prefer it to the tool we used previously.
+
+AI agent running off your knowledge base is super handy - we only need to update our product info in one place
+
+Support are super helpful and can answer really technically complex questions, which is fab
+
+Lots of options for building reports
+
+What do you dislike about Intercom?
+Lot of people will say the price. It is expensive, but when you compare that to the time you save over using something else, I think it's a bit of a no-brainer. They have simplified their pricing a lot more in the last year or so too, which makes it much better
+
+The integration with HubSpot is not so good, but I think this was maybe on HubSpot's end. It made the migration across a bit of a pain, as our sales/success teams weren't able to see conversations in Intercom as easily as we'd have liked. This has been made a lot better with the introduction of Lite seats, which we didn't have before (also solvable if you know what you're doing with Zapier/Make)
+
+But in short I'm definitely a fan
+
+What problems is Intercom solving and how is that benefiting you?
+It allows us to be really targeted in our approach to supporting our users. We have a complex platform with lots of different profiles of users, and Intercom makes it easy to serve each of these with the best content for them. It also makes it easy for our team to manage their workload - in HubSpot, this was a pain as all conversations had to be had in real time, and couldn't be snoozed.",True
+10569616,2024-11-26T00:00:00,5.0,Small-Business(50 or fewer emp.),Owner/Marketing/Sales,"What do you like best about Intercom?
+Simple, Easy to use and solves majority (if not all) our technical requests from inbound customers. This has been game-changer for our entire company, and provides top-management a full visual of chats, follow ups and customer journeys. It's been instrumental in our growth as a company, and at solving issues in our start up phase. We rely on this multiple times a day.
+
+What do you dislike about Intercom?
+not much to dislike. Required our full technical team to be a part of implementation, but thats mainly because our Sales and Marketing team are not incredibly tech savvy in back end development.
+
+What problems is Intercom solving and how is that benefiting you?
+It's our window into customer service and new product release (all communication). It's life saving.",True
+10321818,2024-09-30T00:00:00,4.0,Mid-Market(51-1000 emp.),Product Marketing Manager,"What do you like best about Intercom?
+I think it's a testament to Intercom that it's been the go-to tool for customer communications in the last three companies I've worked at, ranging from small startups to large public organisations.
+
+As a Product Marketing Manager, I love how intuitive, user-centric, and visually appealing Intercom is. From recruiting users for beta testing to sending newsletters and building product tours, it's fantastic to cover such a range of capabilities with one single tool.
+
+Their customer support team is also excellent. Whenever I've encountered a blocker, they've been quick to respond and provided great support.
+
+What do you dislike about Intercom?
+On the downside, because it's such a powerful tool, I often find myself Googling where specific features live, even after years of using it. Improved in-platform navigation and searchability would make a big difference.
+
+What problems is Intercom solving and how is that benefiting you?
+Communicating the value of our product to customers and increasing adoption",True
+10278300,2024-09-19T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Success Manager,"What do you like best about Intercom?
+I love that Intercom has a widely integrated system to provide granularity and precision when we build customer communication strategies. I can be very specific, and there are many functionalities I can choose from. It's my daily job to use Intercom and I really like how easy it is to get in touch with my customers, providing support not only via chat, bu being able to link knowledge base articles as well is really powerful!
+
+What do you dislike about Intercom?
+AI is still a bit confuse to set, also not being able to delete some old stuff. This has been improving with time, though.
+
+What problems is Intercom solving and how is that benefiting you?
+Addressing communication with customers. Intercom allows me not only to have a Live Chat connected to our knowledge base articles (and AI can start replying  using this source), but also to add banners for urgent communication, pop-ups for news and warnings, it's really powerful.",True
+10523393,2024-11-17T00:00:00,4.0,Small-Business(50 or fewer emp.),Owner,"What do you like best about Intercom?
+Intercom has a complete package of customer service tools, including documentation (knowledgebase), on-site messaging, ticketing, site tours, and other user adoption tools. The app itself is blazing fast, which is a pleasure to work with. The Wordpress plugin works like a charm: if you run a Wordpress site, user data is synched automatically with the plugin. I appreciate the fact that the tool is not metered by number of users, so if you have a large number of free users, you don't get charged unless you send them certain types of messages. Customer service is always friendly and usually can help me get to the answer. Their own AI customer service tool is generally good & saves a lot of time.
+
+What do you dislike about Intercom?
+There is definitely a steeper learning curve than I was expecting, as a solopreneur. Some things are really much better if you can get developer hours (on-site tours and event tracking are examples). Some parts of the tool are not customizable -- you have to accept the existing formatting or setup (banners, site tours, posts). There is no built-in option for multilingual site tours.
+
+What problems is Intercom solving and how is that benefiting you?
+User adoption was my primary challenge. I liked that Intercom can give site tours, on-site messaging, chatbots, and documentation all in one tool. They are stronger with chatbots, help desk, and tickets, and relatively less strong with site tours. However, the fact that they have it all is what sold me on Intercom.",True
+10402108,2024-10-23T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer service representative,"What do you like best about Intercom?
+One thing that fascinates me about using Intercom is the fact that I can constantly see how many users I have contacted on a daily basis and can quickly access a conversation with them.
+
+What do you dislike about Intercom?
+I consider that it's not something that I dislike completely, but perhaps the aesthetic customization within the app could be improved a bit. It doesn't look bad, but considering how good everything is in general, I would say that this is an opportunity for growth in that aspect.
+
+What problems is Intercom solving and how is that benefiting you?
+In general, Intercom benefits my colleagues and me with the ease and efficiency we have in attending to the requirements of our users, in addition to having multiple AI tools that help us with each user and response times.",True
+10050347,2024-08-26T00:00:00,4.5,Small-Business(50 or fewer emp.),Front-end Developer,"What do you like best about Intercom?
+I really love the fact that I can solve a lot of problems of my company hiring only one product. We send e-mails, created our news feed, implemented a chat, added tooltips, etc.
+
+What do you dislike about Intercom?
+Unfortunately, the UI could be better. We frequently spend some time finding where is an specific setting or feature. Some tables could have more sorting options. Only a few columns could be sorted on certain screens.
+
+What problems is Intercom solving and how is that benefiting you?
+The main reason that we hired Intercom was the Live Chat and Help Desk. It's really greater than the competitors that we tried. After that, we started to added some tooltips to explain some features and created our news feed to show the software changelog. We started to send some e-mails through Intercom too. It's not the best mail builder that we used, but it's very convenient. Maybe in the future we can use only Intercom for that too.",True
+9992921,2024-08-12T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Service and Operations Senior Executive,"What do you like best about Intercom?
+The Customer Satisfaction report has become a must in my daily and weekly review regarding the interactions we have had with our users and makes it easier for the manager to track what can be improved in our end and provide feedback to our employees on time to increase the satisfaction of our customers!
+
+What do you dislike about Intercom?
+I would prefer if the Conversations report gave the manager the chance to consult what were the chats we received on a specific time frame, and forward us to the link of the conversation, that would help us speed up our Quality reviews since nowadays, we only get to see the volume of chats, but not what those chats were.
+
+What problems is Intercom solving and how is that benefiting you?
+It has helped us to identify the timeframes where we get the highest traffic, and that has lead us to adapt our operational schedules to meet those needs and have our staff ready whenever we need more people on board to attend the most number of chats possible.",True
+10562125,2024-11-25T00:00:00,4.5,Small-Business(50 or fewer emp.),Head of Onboarding at Preflect,"What do you like best about Intercom?
+The ability to keep daily communications with customers in one place and easily respond to live chat as well as automate email drips.
+
+What do you dislike about Intercom?
+Having to upload images that we send for FAQs every time. If there was a library where we could keep all these in intercom,  it would be a game changer.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows us to keep in touch with our platform users, provide live chat support, resolve help tickets and streamline overall communications. Intercom provides a way to implement help articles easily in to emails, live chat and send emails to users from one place.",True
+10640547,2024-12-12T00:00:00,1.5,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+There are 2 parts to my department, support and success. For support, intercom has been very helpful; however, for success it has been a nightmare. The sales representatives at intercom assured us that their platform can be used as a CRM and we fell for it. It is difficult to use, picks and chooses when to save data, and if a CSV is uploaded, intercom will delete other information randomly. Also, customer service at intercom is probably the worst I've ever encountered.
+
+What do you dislike about Intercom?
+See above - bad customer service, unreliable platform for CRM purposes
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has been great for customer support. It is built into our interface and allows customers to access self service or contact our support team right away.",False
+10351499,2024-10-08T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Success Specialist,"What do you like best about Intercom?
+Intercom makes it really easy to provide effective customer support with a multifaceted approach. It integrates directly with your platform so that you can communicate with customers in all different fashions, being as loud or quiet as you'd like to be with those communications. Walk customers through your platform with tool tips, make announcements about product updates or upcoming platform maintenance, and quickly reply to customer questions via the chat function. The number of possibilities with Intercom are almost endless.
+
+What do you dislike about Intercom?
+Because there are so many capabilities within Intercom, it can be difficult to understand the best approach for your goals.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps our team to collaborate manage an inbox of customer questions together.",True
+9928188,2024-07-26T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Service Representative,"What do you like best about Intercom?
+The ease! First time Intercom user but my line manager did not have to spend much time training me how to use this. I'm sure we've not maximized its full potential yet but that's because our field isn't really that intensive on tech, so what we use it for, which are mostly customer service, live chat, and email, and its needs are met!
+
+What do you dislike about Intercom?
+There isn't any that I could name, to be honest, as I feel I have at my disposal all the features that I need for my role. I understand this asks for cons, and sorry I still gave pros! :p
+
+What problems is Intercom solving and how is that benefiting you?
+It helps by giving me options! Not having to tab out to Gmail to write emails is a superb feature. It helps with efficiency by allowing the storing of macros. The integration with Hubspot saves me a few clicks, and keeping records, notes, on customer's queries!",True
+8539837,2024-10-19T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer service representative,"What do you like best about Intercom?
+I like it best when we can use third-party AI assistance like Grammarly without experiencing any bugs or issues. I like it even more because the interface is very simple which makes it easier for us/ me to navigate the tool.
+
+What do you dislike about Intercom?
+What I dislike about it is that sometimes there is a delay but I'm not really sure if an external issue can be also the cause of it like a network connection error.
+
+What problems is Intercom solving and how is that benefiting you?
+The intercom makes it easier for us to communicate with the customers. The simple interface makes our work more efficient and precise which helps us not be hassled when doing our Job.",True
+10583589,2024-11-29T00:00:00,3.5,Small-Business(50 or fewer emp.),Manager of Distribution Operations,"What do you like best about Intercom?
+You can track any emails received, keep tabs on your teams workload, make and answer phone calls, have multiple users, check old conversations/tickets
+
+What do you dislike about Intercom?
+You cannot see open and snoozed conversations in the same viewing. You need to click between the two. There should be a feature where you can display both without clicking between the two. Not as simplified as the likes of zendesk
+
+What problems is Intercom solving and how is that benefiting you?
+It is helping me work with a big team efficiently by having tickets and conversations viewable to all in the company.",True
+10296081,2024-09-23T00:00:00,5.0,Small-Business(50 or fewer emp.),Operations Manager,"What do you like best about Intercom?
+Intercom is an incredibly user-friendly tool to use from both an agent and admin level. It has given us a powerful connection to our customers. We have been using it for roughly 8 years now and have continued to implement new functions as the business grows. It is very easy to implement and grow.
+
+What do you dislike about Intercom?
+Sometimes getting support back from them can take some time.
+
+What problems is Intercom solving and how is that benefiting you?
+Conversational support with our entire audience. Our customers, and their customers who we also support where required. This gives us a great benefit by ensuring we have consistent messaging and no middle man when it comes to supporting our product. Our next uptake will be with AI Agents to better streamline our offerings.",True
+10441816,2024-11-01T00:00:00,4.5,Mid-Market(51-1000 emp.),UW Writer,"What do you like best about Intercom?
+I really like the ease of determining which customers will receive the automation and the timing. This helps a lot and gives me peace of mind.
+
+What do you dislike about Intercom?
+In my role, I use the entire proactive support feature, and I think the tool has been improving day by day. The product tour still needs adjustments to provide more flexibility, like other tools I know. Despite the explanatory materials, I still have a lot of difficulty understanding and using the Series feature.
+
+What problems is Intercom solving and how is that benefiting you?
+The benefits include improved customer satisfaction and more efficient communication, resulting in faster and more effective service.",True
+10314782,2024-09-27T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I think the one thing I like the most about Intercom is how simple and easily digestable the user interface was. I think that there were the right amount of buttons and everything was labeled very intuitively. When you first start using the platform it can be tricky to learn what each symbol stands for, but once you get the hang of it, the platform becomes a second nature almost.
+
+It was suuuuper easy to integrate our work email and implimenting it into our user experience flow. A lot of users of our product enjoyed being able to use the chat  features and giving the experience to ""talk to us"" directly.
+
+Literally I use it all of the time to help with customer support tickets and is our go to platform to make sure our users get the help they need as efficiently as possible.
+
+What do you dislike about Intercom?
+I think that my only criticism is that I wish that there was an option to also have words alongside some of the buttons. Some of them look a little similar to each other so it's easy to get it mixed up.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has given me a one-stop shop to be able to handle all of my customer service needs. It gives me all of the tools to create and automate customer service to make sure people are getting all of the information that they need.",True
+9870304,2024-07-08T00:00:00,4.5,Small-Business(50 or fewer emp.),Product Designer,"What do you like best about Intercom?
+We have been using Intercom in our company for over a year, and the experience has been extraordinary. Intercom has become a tool we use every day for managing our communications with customers. Before, we had different tools that we ended up combining into one with Intercom.
+
+On one hand, the chat feature allows us to control all the conversations that come in, and with the automatic bots, it facilitates the qualification of the different leads that enter. Lastly, the fact that we can have all the help center articles on the same platform makes it much easier to share an article directly from the support chat.
+
+What do you dislike about Intercom?
+The onboarding takes some time until everything is set up, but it is true that the product is well-prepared in this regard to guide you.
+
+The series/tours part is the only thing we haven't completely moved to Intercom; here we continue using another application as it offers us more flexibility.
+
+What problems is Intercom solving and how is that benefiting you?
+It is an essential tool for support and Customer Success.
+
+It allows us to resolve user queries in real-time. Detect bugs and incidents. Capture leads and automatically qualify them to decide which funnel to include them in. Have all the help articles so that the user can self-service to resolve their doubts when starting with the platform. We save response macros to streamline support work and standardize responses. Marketing can launch banners if there is any special announcement or webinar they want to announce to users/leads, it also helps us communicate if there is any outage or specific problem.
+
+We are a software that offers services to other companies, and without a doubt, Intercom makes it easier for us to provide a differential value with support to our clients.",True
+10346596,2024-10-09T00:00:00,5.0,Small-Business(50 or fewer emp.),Client Engagement Team Lead at Kno2,"What do you like best about Intercom?
+We use Intercom all day every day as the center of our support operations. I love how easily we can support 18k + active customers as well as multiple partners with a support team of 6 people, half of which don't have to live in Intercom all day. It wouldn't be possible without Intercom's automations, workflows, integrations, and Fin. Our customers and partners love our support.
+
+What do you dislike about Intercom?
+I wish there was more control over the spam filter. I would like to only have things I mark as spam go there, as we regularly lose legitimate emails into there. It's not always easy to remember to check it.
+
+What problems is Intercom solving and how is that benefiting you?
+We have a very small team, but we want to provide excellent customer service to a large amount of users and partners. Intercom allows us to accomplish that easily without having to hire more employees.",True
+10656854,2024-12-17T00:00:00,4.5,Small-Business(50 or fewer emp.),Support,"What do you like best about Intercom?
+The IA partner are very good when contugiration correct. Do not know about me the valor of, but seeing the IA in chat makes thinks more easily.
+
+What do you dislike about Intercom?
+The automation costumer distribution, i think the distribuition need to have more option them just the old to new ones
+
+What problems is Intercom solving and how is that benefiting you?
+The problem are not the program, but the way that program was use by my organization. I see future for the intercom",True
+10616223,2024-12-06T00:00:00,5.0,Small-Business(50 or fewer emp.),Project Manager,"What do you like best about Intercom?
+The best about Intercom is easy of usability. Intercom is a feature rich platform and allows easy integration to salesforce and its best to create internal tickets to support various teams
+
+What do you dislike about Intercom?
+Intercoms own support is very limited and does not live upto their expectations
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is solving issues for help desk and since the time of using Intercomm, we have benefitted immensly by resolving the issues on time because of ease of platform usability",False
+10320544,2024-10-04T00:00:00,5.0,Mid-Market(51-1000 emp.),Director of Customer Success,"What do you like best about Intercom?
+The team at intercom is always there to help. As we have grown our company intercom has been a key partner in it. FIN has bee huge for us in scaling our team and providing better service to our clients. We have been able to close of 50% of conversations with AI and keep an 85% CSAT score on those AI conversation. Intercom allows our team keep up with clients everyday. We are able to support 3 different products with one intercom installation.
+
+What do you dislike about Intercom?
+The pricing structure can be confusing to understand
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is our primary communication tool with our clients and for in-app education.",True
+9854731,2024-07-01T00:00:00,5.0,Small-Business(50 or fewer emp.),COO,"What do you like best about Intercom?
+HIPAA compliant without a massive cost.
+AI that can actually help my users.
+Useful and clean product walkthrough features.
+Easy to build help desk articles.
+All on one platform with good UI.
+Startup discount.
+Pricing for AI chat bot feels simple and fair.
+Easy to get set up.
+
+What do you dislike about Intercom?
+Startup discount is great but won't get you HIPAA compliance.
+Usage based pricing can be difficult to model future cost to company.
+Have to have an active seat for any engineers who are just setting up product walkthroughs even if they aren't providing customer support.
+App doesn't seem to consistently send notifications for incoming live chats.
+
+What problems is Intercom solving and how is that benefiting you?
+The product walkthrough feature has made our product much more accessible to a wide audience of users with varrying tech savviness. Live chat is super simple to use. The AI chatbot solved its first customer support ticket autonomously last week and it only took 5 minutes to setup, absolutely incredible. Help desk was also easy to setup and very useful for customers.",True
+4251183,2024-11-05T00:00:00,5.0,Small-Business(50 or fewer emp.),Co-Founder,"What do you like best about Intercom?
+Great support tool, great support team (there's a minimum number of characters on the questions. that's very weird)
+
+What do you dislike about Intercom?
+I had high hopes for the Intercom Product tours. It's ok overall but has some minuses. I can see you're working on it, and the support team has been great in delivering our feedback to the product team. So I am waiting on the improvements :)
+
+Recommendations to others considering Intercom:
+Do it
+
+What problems is Intercom solving and how is that benefiting you?
+We're mostly handling support, but we want to ramp up our onboarding with the product tours. So far we could only use it sparingly due to some limitations such as product tours not starting if users aren't logged in and need to go through the login process; menu items (e.g. File>New) aren't recognised when you hover over them, etc",True
+10565946,2024-11-26T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Concierge,"What do you like best about Intercom?
+The AI that can effortlessly improve my grammar and spelling. Additionally, it's offer a variety of options to enhance my writing, such as choosing a more friendly or formal tone.
+
+What do you dislike about Intercom?
+Nothing for now. Intercom is an incredibly user-friendly and convenient tool to utilize. It's truly a pleasure to use
+
+What problems is Intercom solving and how is that benefiting you?
+Whenever I struggle to articulate my thoughts, I have a fantastic AI tool at my disposal that can effortlessly improve my grammar and spelling. It's a lifesaver!",True
+10257015,2024-10-28T00:00:00,5.0,Mid-Market(51-1000 emp.),Chat Customer Support,"What do you like best about Intercom?
+What I like most about Intercom is how easy it is to navigate. I can easily view our team's CSAT standings using the ""Report"" option, and I can create and customize macros for easier customer interactions.
+
+What do you dislike about Intercom?
+As a person who always likes to customize my theme on every platform, I think it would be great if I could change my preferences to different styles and colors, in addition to the ""Light or Dark"" mode.
+
+What problems is Intercom solving and how is that benefiting you?
+It allows me to create and customize macros to provide my customers with a simpler approach.",False
+10487245,2024-11-11T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Service Representative (Chat Support),"What do you like best about Intercom?
+Intercom is the best customer service app that can really help to connect with our customers in the most convenient way. It's come so handy since there are quick links that will appear from the right-hand navigation bar to help our investigation in an easy way.
+
+What do you dislike about Intercom?
+There are some Intercom issues that will happen that can affect our quality performance.
+
+What problems is Intercom solving and how is that benefiting you?
+We help our customers to resolve their portal issues, and easy for us to help them investigate.",False
+7888852,2024-11-07T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I am using Intercom for a lot of time, have experience with other platforms, and I would like to say that Intercom is the best solution between functionality side and user-friendliness
+The AI update is also a great feature!
+And many others, such as to see who is checking the chat, ping, dark mode, etc.
+
+What do you dislike about Intercom?
+I wouldn't say I liked the thing when the user comes to the chat with the identical email but not logged-in in one of the times (like just an email response) and I will not see the previous history with the contact, even when the email matches.
+
+What problems is Intercom solving and how is that benefiting you?
+Easy communication with the users. Possibility to use it correctly with the team",True
+9763848,2024-06-11T00:00:00,5.0,Mid-Market(51-1000 emp.),Technical Support Executive,"What do you like best about Intercom?
+First of all the user interface is too good.
+You can easily manage multiple chats at a time.
+Chat taggig makes it easy for us to identify the categories of issue.
+Most of the basic queries are handled by the Chat Bot which reduces the hassle.
+It also allows us to monitor chats of other team members.
+
+What do you dislike about Intercom?
+We cannot chat with the client on behalf of other team members, if I need to transfer the chat midway to my colleague, customer gets to know that person who is handling a chat is now changed.
+Sometimes, chatbot fails to assign chats to any of the available team members and chat remains unassigned without any notification.
+
+What problems is Intercom solving and how is that benefiting you?
+The chat bot in Intercom resolves some of the basic queries of the customers itself, without involving human which is great.
+It reduces the number chats we need to handle at a time becasue of chat bot.
+It allows us to creat macros which enables us to save message templates and send them quicly without typing them everytime.
+It recognises opening message and we just need to press TAB to enter opening message.",True
+10483463,2024-11-10T00:00:00,5.0,Mid-Market(51-1000 emp.),Technical Support Manager,"What do you like best about Intercom?
+Fin is a game-changer! Configuring all workflows is very easy, and you can implement them in your product with a few clicks! We use Intercom every day, and Fin is doing the heavy work for us at the moment.
+
+He helped our support team focus on more complex support issues and lifted almost 50% of our day-to-day job.
+
+What do you dislike about Intercom?
+Literally nothing! I have one: the ""waiting period"" for the new features to come!
+
+What problems is Intercom solving and how is that benefiting you?
+Incoming tickets/chats",True
+10626406,2024-12-11T00:00:00,4.0,Small-Business(50 or fewer emp.),Configuration Engineer,"What do you like best about Intercom?
+We can keep all client's support requests in one place, together with keeping the knowledge base.
+
+What do you dislike about Intercom?
+Could more intuitive, it is not. The way the areas are separated is not the best and I think is the reaosn why I think could be more intuitive.
+
+What problems is Intercom solving and how is that benefiting you?
+Maybe AI, but we are not super sure how to implement it strategically.",True
+9736247,2024-06-01T00:00:00,4.5,Enterprise(> 1000 emp.),Support Specialists,"What do you like best about Intercom?
+The vast keyboard shortcuts were the most helpful in the Intercom. Speaking with different customers makes your life faster and easier with just one click of a button, and you can already switch to a tab, or change your interface.
+
+Another thing I love about Intercom is the new CoPilot feature. It is an AI but also user input so you are assured that you can modify your responses and choose from the best answers from your colleagues.
+
+What do you dislike about Intercom?
+It creates too many interaction. I hope it can identify and merge tickets immediately if a user created too many inquiries in a given instance.
+
+What problems is Intercom solving and how is that benefiting you?
+It helps me become more productive by being able to communicate with multiple customers at the same time. I can get up to 3 instances open and even pull more conversations as needed. This not only help me gain more knowledge and tickets but as well help the customers lessen their efforts when communicating with us since it helps them save time as well.",True
+10341771,2024-11-20T00:00:00,4.5,Mid-Market(51-1000 emp.),Supervisor,"What do you like best about Intercom?
+I like the interface to help me to find the chats and create a reports to check the performance to my team and overall all team.
+
+What do you dislike about Intercom?
+Sometimes is very slow, also in the flows need a good ram to work well.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom nos ha ayudado a poder automatizar mejor nuestro servicio, teniendo metricas claras y facilidad en la atencion e informacion.",True
+10254424,2024-09-16T00:00:00,4.5,Small-Business(50 or fewer emp.),Digital Support Technician,"What do you like best about Intercom?
+Simple layout for navigating different tickets and cases.
+
+Easy implementation and integration with ongoing methods of casing.
+
+Easy to respond to any customers and support them as needed.
+
+Lots of different features, conversations for short chats, or tickets for bigger issues.
+
+Using it daily, it has become our main port of customer contact.
+
+What do you dislike about Intercom?
+There have been no circumstances that make me particularly dislike a part of intercom, it is a very good platform for dealing with customer enquiries.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows me to properly save a case to differ between larger and smaller issues.",True
+9228494,2024-12-10T00:00:00,4.5,Mid-Market(51-1000 emp.),Thryv Success Specialist,"What do you like best about Intercom?
+Macros function is the best of it. I really like it.
+
+What do you dislike about Intercom?
+Some optimizations need to be done on it. I'd like to add ''export conversation'' as an action.
+
+What problems is Intercom solving and how is that benefiting you?
+The problem it solves is the fact hat some clients does not like to call. Using intercom's Chat, life becomes easy for them.",False
+10479600,2024-11-08T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I love that it is easy to use, very straightforward, has all of the tools that I need to do my job efficiently and effectively, and is so nice to be able to see my production and results. As a customer service representative, it has been amazing!
+
+What do you dislike about Intercom?
+It can be overwhelming because there is so much information and reports available, but I still love it because it gives me everything I need and is adaptable to my job.
+
+What problems is Intercom solving and how is that benefiting you?
+It has been the best tool for our customers and has made our jobs easier to chat with customers and solve their problems on this platform.",True
+10650715,2024-12-16T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+UI is great. Possibilities when it comes to types of messaging (banners, emails, chats, popups). Our customer communication for product adoption and education is completely done via Intercom.
+
+What do you dislike about Intercom?
+Integration with Salesforce is not great. Creation of tasks via clicks on email is inconsistent to say the least.  Some asks that are not supposed to be created, are created, and those who are supposed to, are not.
+
+What problems is Intercom solving and how is that benefiting you?
+Segmentation when it comes to product and customer communication based on tags. Customer Marketing via invites to educational webinars.",True
+10392240,2024-10-21T00:00:00,5.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I use intercom everyday to talk to customers who need help, who have a question or really anything related to communication. When I started using it, I thought it was pretty good, but I didn't know the many other features it had to help me better structure my day to day with customers.
+
+What I like the most is that even if Intercom is a big platform for giving support, their support is also very fast and accurate !
+
+I like they communicate new features and ideas through their own channel, I can see what my customers are going to see if I activate the proactive support, or FinAI.
+
+What do you dislike about Intercom?
+Intercom is a complex product, and even though I don’t consider that to be a negative thing about it, sometimes I simply don't have the time to read through the articles. For more complicated paths like establishing rules I had a hard time finding the right information by going from one article to another.  Otherwise, is very easy to use and to understand !
+
+What problems is Intercom solving and how is that benefiting you?
+At the moment, we are using Intercom to help us structure our customer onboarding. Proactive support has been of great help to reduce basic support contact and give us time to focus on bigger problems.",True
+10650263,2024-12-16T00:00:00,4.5,Mid-Market(51-1000 emp.),Product Manager,"What do you like best about Intercom?
+We can send push and popup to mobile users easily and build email system logic
+
+What do you dislike about Intercom?
+Price high, some features are overpriced so we looked for another solution. Plus Intercom is blocked by Viettel service, so our users in Vietnam with Viettel telecom can't access customer center and view URL for our banners and articles.
+
+What problems is Intercom solving and how is that benefiting you?
+We use intercom for CRM, customer communication including email marketing, inapp popup, notification, etc. Intercom is easy to use and navigate for most of our internal stakeholders to find customer's queries.",True
+9960706,2024-08-06T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+The user interface is easy to use and it's very intuitive. It allows in-platform user communication via number of channels, such as surveys, messages or banners as well as email and chatbot.
+
+The articles and knowledge base that feed into the chatbot are very effective too. It's great to have a centralized place for customer communications and product marketing.
+
+My team and I use Intercom nearly every day. It has been easy to implement and integrate with other channels, such as Slack.
+
+What do you dislike about Intercom?
+Being able to pick the exact elements of your subscription is a cost-efficient way to use the platform. But you can't effectively use some options without paying for others, so it feels like a constant upsell.
+
+I had a mixed experience with customer support. The highly effective chatbot means that a lot of issues can be resolved in no time. But anytime I need to speak to a human it takes a long time to be connected. I have encountered a range of customer support agents too - some of them incredibly helpful, and others less so.
+
+What problems is Intercom solving and how is that benefiting you?
+The product tours have been an incredibly useful feature. It means that the tech team no longer has to spend time trying to build informative pop-ups in the platform. In turn, this means that marketing is fully in control of the content and everyone has far more flexibility.",True
+10276755,2024-09-19T00:00:00,5.0,Mid-Market(51-1000 emp.),"Team Lead , Global Support","What do you like best about Intercom?
+Over the years of using the intercom , it has been so user-friendly both for our client and as an agent . Integration -wise it made everything even smooth transitioning our chats to other ticketing tools we use . Additionally, we feel that the ease of convenience and accessibility somehow contributed to our happy clients as they can always reach out to us anytime hassle-free.
+
+What do you dislike about Intercom?
+One of the flaws I can consider to be disadvantage on my part , was during earlier days was lack or less customizations available . Like the AI , which does is not available back then .
+
+What problems is Intercom solving and how is that benefiting you?
+Currently, with the new introduction of AI ( Fin AI Copilot ), these really gave us the edge and smooth way to interact with our clients.",True
+10527348,2024-11-18T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Success Associate,"What do you like best about Intercom?
+Many effective tools that are very useful in providing customer support to many users.
+
+What do you dislike about Intercom?
+Their support can be a little hard to get a hold of and a few tools are missing key features like exporting data or walkthroughs of some complex tools. Either way, the pros far outweigh the cons.
+
+What problems is Intercom solving and how is that benefiting you?
+AI support, tools to improve efficiency, self service support.",True
+9853317,2024-07-01T00:00:00,4.5,Small-Business(50 or fewer emp.),Product Marketing Manager,"What do you like best about Intercom?
+As a product marketer, the ability to pin point specific segments of users to launch a wide variety of messages, pop-ups, chat bubbles, news articles, etc, makes it really easy to reach our customers and provide a consistent and seamless experience for them. Intercom makes it really simple to create a unified in-app and help center experience for our customers.
+
+What do you dislike about Intercom?
+I have come across a few bugs but they usually don't hold me back from getting projects done.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom solves the problem of being able to communicate to our customers directly and effienctly in the place that they work every day (our product). That is helpful for product marketing campaigns and feature launches to communicate what we need to customers so that we can have more successful product launches.",True
+10411284,2024-10-25T00:00:00,5.0,Mid-Market(51-1000 emp.),Patient Concierge,"What do you like best about Intercom?
+the AI generate responses and the template function make my life 100 times easier
+
+What do you dislike about Intercom?
+That I cannot go in and edit an email after creating a new user/lead. Sometimes I have a typo and instead of editing the email, I have to create a new user/lead entirely.
+
+What problems is Intercom solving and how is that benefiting you?
+It helps me with time management and makes it so I can use a marco instead of having to type out my messages everytime.",True
+10054226,2024-08-27T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Experience Readiness Specialist,"What do you like best about Intercom?
+Intercom is easy to use and allows great flexibility and control over your customer support. They regularly provide helpful updates for their product to enhance it's use.
+
+What do you dislike about Intercom?
+There is very little I dislike about Intercom. The cost per-assumed resolution with Fin is not always great as it can count for customers who drop off without truly being resolved.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom lets us provide fast support to our customers over email and chat. In addition, it also allows us to use Help Centres and Chatbots to reduce our inbound customer contacts. This frees up more time to work on the tricker problems.",True
+10367087,2024-10-14T00:00:00,5.0,Small-Business(50 or fewer emp.),Brand Ambassador,"What do you like best about Intercom?
+Is easily accessible and easy to use when completing a chat using the different macros and AI to make it easy to communicate with the customers
+
+What do you dislike about Intercom?
+I have never encountered something that I dislike about intercom.
+
+What problems is Intercom solving and how is that benefiting you?
+The time i use intercom is when we are communicating with customers who are enquiring about the business or services that we offer and it is convenient to use as we reach an understanding at the end of the day.",True
+10029743,2024-08-20T00:00:00,4.5,Mid-Market(51-1000 emp.),Back Office Specialist,"What do you like best about Intercom?
+How easy it is to use and how customizable their macros are, it allows to handle hundreds of chats a day with no great effort.
+Another thing I love is the easy it is to implement in a new business.
+It also allows to integrate another useful tools to obtain a high detail level on the conversations. It is also the tool I prefer to use daily to support the customers of the business.
+
+What do you dislike about Intercom?
+Sometimes the actions trigerred by keys can overlap and get a little messy.
+
+What problems is Intercom solving and how is that benefiting you?
+Getting all the channels the customer prefer in a tool that is easy to use.",True
+10368049,2024-10-14T00:00:00,5.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+We've built out a really close customer engagement model by using Intercom for support, notifications, tooltips and more. The ability to make quick call outs with very little technical knowledge has been incredibly useful. I interact with Intercom almost every day to see requests, and track a few metrics.
+
+What do you dislike about Intercom?
+On the odd occasion, there have been a couple of limits on how I can run a product tour. Intercom needs the user to click ""next"" or go exactly where they are expected to, and to get around this takes a lot more effort with a ""series"". In so many ways the simplicity of Intercom is a strength, but on the odd occasion it could handle a slightly more advanced requirement.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom gives us a very human and rapid support process when customers have issues with our product. We have occasionally used Intercom for showing a banner when there was a known issue in our product, which we could do without using a developer or waiting for a hotfix. We run our product documentation through Intercom which has a fantastic ability to hide certain articles unless the user is logged in to our product.",True
+9892036,2024-07-24T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Support Manager,"What do you like best about Intercom?
+Compared to other chat service platforms, Intercom stands out as a clear leader. Its reliability is unmatched, ensuring consistent availability for our customers. We appreciate Intercom's commitment to innovation; they consistently introduce new features that keep us ahead of the curve.
+
+What do you dislike about Intercom?
+While the platform offers incredible value for larger enterprises, the pricing tiers might be slightly steep for startups or small businesses with limited resources. A more flexible pricing plan or potentially a free tier with limited features could make Intercom accessible to a wider range of businesses.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has been an invaluable asset to our business. As a platform that seamlessly blends customer support, marketing, and sales, it has significantly enhanced our customer interactions.",True
+9995439,2024-08-13T00:00:00,5.0,Small-Business(50 or fewer emp.),Product Manager,"What do you like best about Intercom?
+The fact that you can do A LOT in Intercom. From product tours, to support, to emailcampaigns,.... You can do it all in a very intuitive way.
+Also, when asking a question to Intercom support, I always get timely and to the point feedback. To end this review, the ease of integration is stunning.
+
+What do you dislike about Intercom?
+Sometimes you need to check out the helparticles because there is just too much possible in Intercom
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom solves the issue that for a product manager, everything promotional can be done in one place.
+Product tours, newsfeed, email campaigns to improve usage of our app --> Intercom solves it all",True
+10403026,2024-10-23T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer support representative,"What do you like best about Intercom?
+The tool is easy to use, has a great design and customization options, allowing us a to provide a better customer support.
+
+What do you dislike about Intercom?
+Nothing really, even when there is an outage it doesn't take that much to have a solution, the only think I would remark is that sometimes the automatic responses bounce back to us.
+
+What problems is Intercom solving and how is that benefiting you?
+Having all the resources we need for our tasks in the same tool.",False
+10307974,2024-09-26T00:00:00,4.5,Small-Business(50 or fewer emp.),VP of Customer Success,"What do you like best about Intercom?
+Enables rapid conversations rather than long running tickets. AI is promising and maybe the best in the field, though not quite there yet for us to use in real scenarios. Workflows are really easy to manage and improves your support process. Plugins and integrations are working great.
+Having used Zendesk and Salesforce before, I can definitely suggest Intercom.
+
+What do you dislike about Intercom?
+Search functionality needs some work.
+Workflow is a great foundation. Could use more flexibility
+
+What problems is Intercom solving and how is that benefiting you?
+Fast implementation of our support processes. Works as promised.",True
+10395670,2024-10-22T00:00:00,4.5,Small-Business(50 or fewer emp.),customer service representative,"What do you like best about Intercom?
+I think something extremely useful within Intercom is the fact that we have great tools like Chat gpt among others, in addition to multiple tools to view all the information. A very well-structured platform.
+
+What do you dislike about Intercom?
+One thing that I might not like is the fact that it uses a lot of RAM, maybe it lacks a bit of optimization.
+
+What problems is Intercom solving and how is that benefiting you?
+Yes, definitely. In general, everything reaches a solution, I think.",True
+10034437,2024-08-21T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Service Representative,"What do you like best about Intercom?
+I do really love how it is integrated with AI options, it makes everything so smooth.
+
+I use it everyday, 40 hours a week, in my customer support role,
+
+And it makes everything easy by implementing new Ideas, and new features all the time.
+
+It is easy to use, and has the most powerful and easy interface to use.
+
+What do you dislike about Intercom?
+There is nothing I do not like about Intercom
+
+What problems is Intercom solving and how is that benefiting you?
+Intergating AI makes it easy to write more friendly messages to the users, instead of depending on how we feel, it makes it great to meet the customer happiness targets.",True
+10395532,2024-10-22T00:00:00,4.5,Small-Business(50 or fewer emp.),People Manager,"What do you like best about Intercom?
+The user interface, everything being handy, being able to pin and use visible data points, the customer support is easier since you are able to handle as many customers as the same time as you want.
+
+What do you dislike about Intercom?
+So far the experience has been good, there isn't that much to complain about, there have been some outages but those were resolved quickly enough.
+
+What problems is Intercom solving and how is that benefiting you?
+Mainly customer service for our users.",True
+9990061,2024-08-12T00:00:00,5.0,Mid-Market(51-1000 emp.),Product specialist/manager,"What do you like best about Intercom?
+First of all, I like the user interface, it is so clean and organized.
+
+I also like the most about the Intercom is, Integration with any plateform for reaching out the customer to the support center for any help. It is so convenient.
+
+What do you dislike about Intercom?
+Nothing is as dislike but when I experience Intercom in mobile application, it is not that much good and organized there.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is making easy the process of reaching out the customer to us from any platform to get the best and fastest support. And it is also helping a lot to us in tracking all the ticketing.",False
+9904377,2024-07-18T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I think the most helpful thing with intercom is that they've really grown and evovled over time, they continue to push new products pretty frequently and do a good job of making you aware of what's coming out.
+
+It's also easy to manage on your own without a lot of dev work (after you've implemented it), so it's nice to be able to just making changes/updates on your own wihtout always needing to make it a more complext process.
+
+What do you dislike about Intercom?
+I still think they have a ways to go with some of their integrations (JIRA, SF).
+
+The pricing can also start rising pretty quickly with of the usage based functions, a lot of the recent AI updates were not included in plans, so they were additional cost.
+
+What problems is Intercom solving and how is that benefiting you?
+It's a great centreal platform for all our inbound customer communications, so that's the main problem that it solves for us. With some of the AI innovation it also saved our agents a lot of time in searching resources",True
+10150949,2024-09-02T00:00:00,5.0,Mid-Market(51-1000 emp.),CX Lead,"What do you like best about Intercom?
+I think one of the best things about Intercom is its focus on improving customer communication. The platform offers a range of tools that help businesses connect with their customers in real-time through chat, email, and other channels. It’s really strong in its ability to integrate with various systems, which allows for a more seamless customer experience.
+
+What do you dislike about Intercom?
+Intercom can be relatively expensive, especially for smaller businesses or startups. The pricing model can become quite steep as you add more features or users.
+
+What problems is Intercom solving and how is that benefiting you?
+Real-Time Communication & Customer Segmentation and Personalization",True
+9091654,2024-07-10T00:00:00,5.0,Mid-Market(51-1000 emp.),Product Support Specialist,"What do you like best about Intercom?
+I think they way all our inboxes are organized it makes it very easy to know where to look for cases. Easy to use as well and very intuitive. I used to use ZenDesk on my previous company and I prefer Intercom now as I think it is more user friendly. Great for customer support agents to work together in different cases.
+
+What do you dislike about Intercom?
+Maybe that sometimes the platform bugs and the beeping when receiving a new case is happening but not case is entering the inbox.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping us establish a good work dynamic and organization. It benefits me because it allows me to be a more organized person which was one of my weaknesses.",False
+10346237,2024-10-07T00:00:00,5.0,Small-Business(50 or fewer emp.),Sales Group Lead,"What do you like best about Intercom?
+What I like most about Intercom is that I can respond very quickly to a customer. Macros play a big role here. Customers are happy when they receive fast responses and this contributes to the growth of our business.
+
+What do you dislike about Intercom?
+There are rare times when the intercom slows down. Notification sounds are also not my favorite.
+
+What problems is Intercom solving and how is that benefiting you?
+Every customer who uses our service has an account. All transactions are carried out through these accounts and we respond to customer requests by checking them. The fact that we can access the accounts instantly during our conversations with customers (thanks to intercom integration) provides great convenience. It is practical and fast.",False
+10523320,2024-11-17T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Support Representative,"What do you like best about Intercom?
+The auto-assigning of tickets and the macros ability/customization
+
+What do you dislike about Intercom?
+When the servers went down a couple weeks ago, I reached out for help and was not able to get a response/update.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom connects customers directly to me and we are able to quickly resolve their inquiries in Live Support.",False
+9904598,2024-07-18T00:00:00,5.0,Small-Business(50 or fewer emp.),Operations Analyst,"What do you like best about Intercom?
+Since we started using Intercom in our company, we were surprised by the ease of use and setup. Additionally, it encompasses all the necessary tools for customer satisfaction and for our operation to be optimized. Another positive point is that they are always providing improvements and new features!
+
+What do you dislike about Intercom?
+There are still some improvements and functions missing, but the Intercom team develops and launches new things all the time.
+
+What problems is Intercom solving and how is that benefiting you?
+Before, our interactions with customers were scattered. Today, we can use everything within the platform in a simple and optimized way. The tool is very visually easy and easy to set up. Additionally, it provides various reports for support analysis.",False
+10347530,2024-10-07T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success,"What do you like best about Intercom?
+We are very happy with Intercom as our customer support software. It is easy to use and to get answers to our clients.
+
+What do you dislike about Intercom?
+Merging duplicates can be finicky. It's nice to see the dupes, but combining them into a single converation is not that easy. It has lead to duplication of efforts as we are answering the same question(s) on multiple threads.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom acts as our support software",True
+10293205,2024-09-23T00:00:00,5.0,Small-Business(50 or fewer emp.),Product support specialist,"What do you like best about Intercom?
+I love the UI, the clarity in open tickets
+Possibility to create macros and have saved links and articles
+Report of our users and companies, tons of custom fields etc :)
+
+What do you dislike about Intercom?
+Sometimes the UI bugs out eg when I use split screen view (having 2 windows open in 1 monitor)
+
+What problems is Intercom solving and how is that benefiting you?
+We are providing support for our customers. I am benefiting from the clarity and systemization of conversations. Also I love the feedback function from customers",False
+10365949,2024-10-13T00:00:00,4.5,Small-Business(50 or fewer emp.),COO,"What do you like best about Intercom?
+Intercom is flexibile and powerful as a Help Desk. Its the best way for us to manage our shared inboxes and incoming requests.
+
+What do you dislike about Intercom?
+The AI formatting is not good. While the content is first class, I wish it didn't get give back huge blocks of text and made the responses more readable.
+
+What problems is Intercom solving and how is that benefiting you?
+Its the best way to manage a shared email inbox and create tickets",True
+10371960,2024-10-15T00:00:00,5.0,Mid-Market(51-1000 emp.),Senior Customer Success,"What do you like best about Intercom?
+Intercom is very easy to use, and track conversations as well as reasigning them, metrics etc
+
+What do you dislike about Intercom?
+sometimes we've faced some bugs on reportings but it was fixed by the team
+
+What problems is Intercom solving and how is that benefiting you?
+we need to have a support chat with our customers, and this involves different departments. since guest can as well be created this helps a lot showcasting customers communications with the account owners",False
+9409196,2024-08-01T00:00:00,5.0,Mid-Market(51-1000 emp.),Joy Hotel Concierge Specialist,"What do you like best about Intercom?
+It's easy to use, especially for business. Organizing emails and chats hasn't been this easy! We use it for ease of implementation, customer support, and ease of integration in our interactions with the clients frequently. We use the service everyday. It's not just about easy management of email comms, but also the integration to other apps that we are simultaneously using like Salesforce, Slack, etc.
+
+What do you dislike about Intercom?
+| can't think of anything at the moment.
+
+What problems is Intercom solving and how is that benefiting you?
+This is what we use for customer support for our email and chat lines. It is also integrated to our Slack accounts, GMail, Saleforce, etc.",True
+10511254,2024-11-14T00:00:00,5.0,Mid-Market(51-1000 emp.),Head of CX,"What do you like best about Intercom?
+Reports are very easy to create, the platform its simple and we have a great customer support by intercom, very quickly.
+
+What do you dislike about Intercom?
+I would love to have a bigger size of the inbox to chat with our clients.
+
+What problems is Intercom solving and how is that benefiting you?
+We didnt have traceability with the other cx software",False
+9973937,2024-08-07T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Success Manager,"What do you like best about Intercom?
+The tool is easy to use and has great UI. It is easy to manage several chats and collaborate with external support teams. It also has many great features to organize and manage ongoing and closed conversations. Plus, it's very versatile and offers features for in-product communication, help centers, etc. Oh, and their customer support is super helpful.
+
+What do you dislike about Intercom?
+The options for filtering conversations are limited (no way to filter by user data).
+
+What problems is Intercom solving and how is that benefiting you?
+It helps to deliver great customer service, get insights from the conversations and is perfect for companies working with external support teams.",False
+10452657,2024-11-04T00:00:00,4.0,Small-Business(50 or fewer emp.),Data Operations Manager,"What do you like best about Intercom?
+Intercom is innovative and constantly improving. Also, their platform solves the vast majority of issues in the customer support space.
+
+What do you dislike about Intercom?
+Surveys feature lacks a lot of functions
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps my organization with a myriad of customer support needs - in-app communications, customer support via email and chat, survey administration, etc.",True
+10251706,2024-09-14T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Concierge,"What do you like best about Intercom?
+What I like about Intercom is its AI feature which can really help on creating email and responses. You just have to enter the keywords and you can choose however you like the email to be created.
+
+What do you dislike about Intercom?
+Everything is great with Intercom. Nothing you can say that is the least.
+
+What problems is Intercom solving and how is that benefiting you?
+It eases the issue of chatting to customers one at a time as you can talk with multiple customers at a time",True
+10448189,2024-11-04T00:00:00,5.0,Small-Business(50 or fewer emp.),Brand Ambassador,"What do you like best about Intercom?
+it is user friendly and makes my daily work easy and has simple features
+
+What do you dislike about Intercom?
+nothing, as I find it easy to operate as well as to navigate
+
+What problems is Intercom solving and how is that benefiting you?
+intercom is assisting me in the creation of tickets and is allowing me to store customer's complaints for further assistance.",True
+9870102,2024-07-08T00:00:00,5.0,Small-Business(50 or fewer emp.),Product Operations manager,"What do you like best about Intercom?
+I like that it offers a variety of different services, from support articles, product tours to support chat and much more. It's really easy to use once you get your head around it all
+
+What do you dislike about Intercom?
+Sometimes the support can take a bit longer to reply and we noticed that some niche things weren't working perfectly (such as tracking of clicks in surveys)
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is great when it comes to offering customer support - it helps us to facilitate the conversation with the users, publish support articles, create product tours, send product update emails and in-app messenging. It makes it easier to do everything from one place.",True
+10146110,2024-09-02T00:00:00,5.0,Mid-Market(51-1000 emp.),Technical Support Manager,"What do you like best about Intercom?
+One of the big differentiators is the ability to separate customer tickets from internal tickets (backoffice tickets).
+
+What do you dislike about Intercom?
+It is still difficult to find specific data and extract it.
+For example, what is the most frequent question that comes into the chat?
+Difficult to search for ticket attributes
+Conditional fields in tickets
+
+What problems is Intercom solving and how is that benefiting you?
+With Intercom, we were able to centralize all our customer support, obtain service metrics, better structure our FAQ, and now we're starting to use Proactive Support",True
+10390134,2024-10-20T00:00:00,5.0,Small-Business(50 or fewer emp.),CEO,"What do you like best about Intercom?
+We love it - we're a tiny startup and didn't want to build out our user onboarding or support/feedback tools. Proactive Support is especially useful. The number of features is excellent.
+
+What do you dislike about Intercom?
+Proactive Support pricing tiers are too high.
+Number of features perhaps overwhelming to understand/grasp easily.
+
+What problems is Intercom solving and how is that benefiting you?
+User onboarding upon sign-up + user support/marketing.",False
+10346392,2024-10-07T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Experience Manager,"What do you like best about Intercom?
+Visibility, intuitive design, scalability, expediting processes, flow of data between softwares, constant support from the team, easy to teach.
+
+What do you dislike about Intercom?
+Search functions are a bit rigid and can make quick data audits take longer than intended.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is allowing our customer support processes to run on autopilot while creating visibility and access for the team to collaborate and resolve issues.",False
+9871255,2024-07-08T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Success,"What do you like best about Intercom?
+The most helpful feature of Intercom is the ability to save articles to our help center or store related answers, saving time by avoiding repetitive searches.
+
+What do you dislike about Intercom?
+It would be great to have an integration with Arcade software.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps us a lot by making communication with our customers much easier and faster. We can keep all our interactions in one place, so we always know what's going on and can respond quickly. It also lets us save helpful articles and answers, which means we don't waste time looking for the same information over and over again. Plus, it helps us stay in touch with our users through targeted messages and automation, which keeps them happy and engaged. The insights we get from Intercom also help us improve our services. Overall, it's made our work more efficient and our customers more satisfied.",True
+9701210,2024-09-22T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Concierge Specialist,"What do you like best about Intercom?
+What I like the most about the intercom is the new feature, which is the AI Fin. It allows us to search for added information quickly.
+
+What do you dislike about Intercom?
+The intercom can't detect other bookings that are linked to the phone number or emails used by the person who is reaching out to us.
+
+What problems is Intercom solving and how is that benefiting you?
+Since Intercom has its own AI, it actually helps us correct spelling, grammar, and punctuation.",True
+10148426,2024-09-02T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+The best thing about intercom is that you can make possible any ideas that you have in mind for your business. You can create custom features and implement on intercom, alongside the workflows that customize the customer experience. Intercom has been the key to develop a self service support to our users and improve the quality of the content we provide.
+
+Also, one of the most useful things about the platform is that the support specialist can always customize their interface and work in the best way for them.
+
+What do you dislike about Intercom?
+Something could be done to improve the platform is to facilitate the call with technical teams when needed help with integration of features.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has been the key help on processes that we can automate. For example we use to handle bonuses requests manually and now we automated the process, being able to resolve 40k of contacts with no agent manual work.",False
+9954843,2024-08-02T00:00:00,4.0,Small-Business(50 or fewer emp.),Community Manager,"What do you like best about Intercom?
+Certainly the best part of Intercom for me is Fin AI. By learning from conversations, it generates new automatic responses that boost productivity by helping to answer repetitive questions.
+
+What do you dislike about Intercom?
+I'm not very fond of the platform's design, but I've seen worse. However, I know it follows a visual identity, and in that, Intercom is quite consistent.
+
+What problems is Intercom solving and how is that benefiting you?
+It centralizes my customer support channel and, therefore, increases my productivity because I can respond to everyone in the same place and also responses that arrive repeatedly end up generating automatic responses through Fin.",True
+9891824,2024-07-15T00:00:00,5.0,Small-Business(50 or fewer emp.),Institutor,"What do you like best about Intercom?
+It's the most comprehensive app that combines customer support and engagement functions at one place. Since it is all managed by one app, it works very smoothly. There are no multiple apps to manage. The Intercom app works out great to handle customer chats and tickets. It comes very handy. What i also love is the marketplace and the integrations with the different apps. It's like customer is requesting features in chat and in very next second, we can push it to clickup. Amazing.
+
+What do you dislike about Intercom?
+Honestly, there isn't anything that i dislike.
+
+What problems is Intercom solving and how is that benefiting you?
+Customer Help Desk, Knowledge Base, Engaging Customers",False
+10419897,2024-10-28T00:00:00,4.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Very easy to use, I've implementend Intercom in a couple of days, by myself. The help center really helps our clitens and the messenger feature is very good to reach out our costumers
+
+What do you dislike about Intercom?
+The way that they charge the AI Agent feature.
+
+What problems is Intercom solving and how is that benefiting you?
+I was able to get closer to my clients. Intercom improved my help center in a more modern way and allowed me to help my support team. The Messenger app also allowed my support team to respond to customers faster.",True
+10448148,2024-11-04T00:00:00,5.0,Small-Business(50 or fewer emp.),Brand ambassador,"What do you like best about Intercom?
+Easy to use with chats and emails, it makes it easy to chat with with customers.
+
+What do you dislike about Intercom?
+nothing, it is a very easy-to-use tool,I like it.
+
+What problems is Intercom solving and how is that benefiting you?
+it makes it easy to communicate with clients and resolve their queries in a timely manner.",True
+10444717,2024-11-01T00:00:00,5.0,Mid-Market(51-1000 emp.),Product Support,"What do you like best about Intercom?
+Simple, easy to use, customer rating is reflected in real time - which is helpful to track feedback on product support.
+
+What do you dislike about Intercom?
+Nothing, Intercom is almost perfect, no flaws detected so far
+
+What problems is Intercom solving and how is that benefiting you?
+Login issues for user, troubleshooting, chat support with fron end users",False
+9945993,2024-08-01T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Success Manager,"What do you like best about Intercom?
+We use a lot of features such as surveys, chat, series and banners and help center in our app. We really like the wide range of possibilities of Intercom.
+
+What do you dislike about Intercom?
+Lack of polish language phone tool. I don't think this is a problem but we also would love to have some kind of CRM feature for measuring healthscore etc. in Intercom
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps us with comunication with our users. We also have help center which is very helpful. We use Intercom also for creating tickets for bug issues.",False
+6705069,2024-10-08T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Success Manager,"What do you like best about Intercom?
+Cliche but, everything - Articles are detailed and integrations seem particularly valuable. The amount of features available is actually staggering and I still find myself stumbling across new functionality regularly
+
+What do you dislike about Intercom?
+Genuinely yet to find a friction point of any sort
+
+What problems is Intercom solving and how is that benefiting you?
+Seamless communication with customers, product tours when releasing new features and articles",True
+7457335,2024-07-01T00:00:00,5.0,Mid-Market(51-1000 emp.),Shift Supervisor - Europe Region,"What do you like best about Intercom?
+1. User-Friendly Interface
+2. Full control over the Intercom Livechat app so we can customize it according to our need
+3. Customer satisfaction reports with different Criterias and many more
+
+What do you dislike about Intercom?
+The training section is not very clear or helpful. The Project Managers have to learn the app by themselves also there is a lack in response from customer support.
+
+What problems is Intercom solving and how is that benefiting you?
+I work as Shift Supervisor for Customer/Technical Support department in an IT company. The App certainly helps many of our customers with instant answers on their training-related tickets. It also helps us pull customer satisfaction reports whenever we want.",True
+9733527,2024-05-31T00:00:00,5.0,Small-Business(50 or fewer emp.),Director of Customer Success,"What do you like best about Intercom?
+Easy to set up, automation helps us scale, the team loves to use it, has turned support more into ""Tier 2"" while automation deflects almost 50% of our workload.
+
+What do you dislike about Intercom?
+Sometimes it can be a bit slow, has days where load times are slower and can affect support agent work - does not happen often.
+
+What problems is Intercom solving and how is that benefiting you?
+Many customers want to find their own answers, and help articles make that simple. You can then deflect low-tier support with automation - and create easy paths to human chat when more support is needed. We've added hundreds of customers without having to add any headcount for almost 24 months and I attribute most of that ability to Intercom.",True
+9950644,2024-08-06T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support Specialist,"What do you like best about Intercom?
+Intercom combines all the tools you need to handle a large volume of queries with the personal elements added in to make every interaction feel conversational. Our team uses Intercom for all customer support inquries and it works across all situations. Integrating Intercom with our software was easy and quick.
+
+What do you dislike about Intercom?
+Intercom focused heavily on their AI bot at the moment which we don't use at all, but this isn't really an issue.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom resolves our need for having one location necessary for a large variety of customer questions. It works well as a tool for live chat with our customers as well as provide them with the tools they need to help themselves in certain circumstances.",True
+10401782,2024-10-23T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Service Representative,"What do you like best about Intercom?
+Most of its features are great and easy to use; the intercom end support is good enough.
+
+What do you dislike about Intercom?
+Nothing so far, everything is clear and easy to access.
+
+What problems is Intercom solving and how is that benefiting you?
+Helping to connect with our users and help them through live chat.",False
+10324048,2024-09-30T00:00:00,4.5,Mid-Market(51-1000 emp.),Product Development Lead,"What do you like best about Intercom?
+Very intuitive, tons of options depending on your business needs, and top notch customer service!
+
+What do you dislike about Intercom?
+Quite a few pricing options/tiers. Would be nice to see more one size fits all options.
+
+What problems is Intercom solving and how is that benefiting you?
+Replaces our website search engine and helps our customers get the help they need, when they need it.",False
+10257126,2024-09-16T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Success Analyst,"What do you like best about Intercom?
+It's easy to navigate, you can find various features in each of their solutions and it is very pretty too.
+
+What do you dislike about Intercom?
+It's hard to set up some configurations and many features are add-ons which makes it hard to scale when you have a smaller team
+
+What problems is Intercom solving and how is that benefiting you?
+Support conversation, communication between support and development and surveys for CS Team",True
+9906192,2024-07-19T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+- Very intuitive interface
+- easy to manage the inbound and the Help Center
+- perfect all-in-one solution for everyday use
+- amazing customer support team
+- smooth integration with ticketing systems such as Jira
+
+What do you dislike about Intercom?
+I can't think of any major downsides, but I would add the possibility of changing the conversation rating even if the user left a comment. Also, when you delete an old user note, you can only edit it and it would be great to be able to delete it completely
+
+What problems is Intercom solving and how is that benefiting you?
+It helps manage chats easily and categorize them according to different subscription types, so we can easily meet the SLA. The tagging system also helps collect feedback and identify areas where we need to improve user knowledge",False
+10345176,2024-10-08T00:00:00,4.0,Small-Business(50 or fewer emp.),Head of Service Delivery,"What do you like best about Intercom?
+The ease for actioning customer support requests and simplifying complex internal processes into succinct customer correspondence is fantastic.
+
+What do you dislike about Intercom?
+Steep learning curve,  restrictive workflow customisation, and long deployment time hamper an otherwise essential product
+
+What problems is Intercom solving and how is that benefiting you?
+Streamlining multiple channels into manageable Teams for our agents to manage.",False
+9870202,2024-07-08T00:00:00,4.0,Small-Business(50 or fewer emp.),Support Advisor (Adult Matric Preparation Programme),"What do you like best about Intercom?
+Intercom is simple and very easy to use . I love that the different displays allow Support Agents to view useful and impactful customer information.It is great for quick and seamless customer support .
+
+What do you dislike about Intercom?
+It limits you from seeing related profiles.Eg Parent,child profiles .When sendinf bulk comms the filters can be complicated,making it hard to get the right comms to the right population.
+
+What problems is Intercom solving and how is that benefiting you?
+Stream lines communication from emails, chatbots and Whatsapp.
+Macros help us respond quicker and our responses as an organization are aligned
+Chatbots/Knowledge bases reduce ticket numbers",True
+9675284,2024-05-20T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support & Billing Specialist,"What do you like best about Intercom?
+The ability to have one inbox for different departments that allows assigning to specialized teams and members.
+Option to send replies to clients or notes to team members within the conversation (email).
+This facilitates visibility and tracking all incoming communications in case the responsible member is unavailable or just follow-up processes.
+
+What do you dislike about Intercom?
+The fact that a ""read"" message can't be marked as ""unread"", which may give the idea of the message already being read or processed by a team member.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has solved the problem of not having visibility across the board of customer interactions and not being able track said communications in real time. Also, when communications were carried out through individual corporate emails, these were not available to others, and if the person that the email was addresses to was unavailable, the customers/clients would not get the support needed.
+This allows us to know/see what’s going on with our clients/customers and how the right supplier is being provided, thus, reducing response times for support and requests and increasing effective attention and satisfaction.",True
+10147630,2024-09-02T00:00:00,4.5,Small-Business(50 or fewer emp.),Customer Service Lead Representative,"What do you like best about Intercom?
+I´ve been using Intercom for the past 3 year in two different companies.
+An easy to assign queries and track response, giving an ability to enhance customer service and operational efficiency.
+By using features like AI Copilot for real-time information, and easy wey de manage our Help Center from in Intercam and last bus not least a very clear and continuous process of evolution in reports.
+The platform’s customization options, the possibility and flexibility of connecting external apps, which is quite helpful.
+
+What do you dislike about Intercom?
+Allow the ability to invite other members to view Intercom without consuming licenses.
+
+What problems is Intercom solving and how is that benefiting you?
+Time and flexibility",True
+10298169,2024-09-24T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+It's easy to track multiple support tickets all in one place. I like the note feature so I can leave notes for team members in the chat thread.
+
+What do you dislike about Intercom?
+I wish there was more customization features for Help Center articles.
+
+What problems is Intercom solving and how is that benefiting you?
+We have a somewhat complex SaaS software, so we get a lot of questions from customers. Instead of having to use a siloed solution like email, Intercom serves as our support hub. Everything is all in one place and it makes it easy to collaborate with my team.",True
+10389675,2024-10-19T00:00:00,5.0,Mid-Market(51-1000 emp.),Associate,"What do you like best about Intercom?
+The most helpful tool is the copilot ""FIN"".
+
+What do you dislike about Intercom?
+The Fin has limited answers to reply to the people that are contacting.
+
+What problems is Intercom solving and how is that benefiting you?
+It helps me resolve customer account issues and respond to customer inquiries about our company's products.",True
+10293484,2024-09-23T00:00:00,3.5,Small-Business(50 or fewer emp.),Senior CS Manager,"What do you like best about Intercom?
+The ability to answer and track multiple customers at once. It's also easy to decipher Snooed and Closed conversations which are easy to access if need be.
+
+What do you dislike about Intercom?
+Not super user-friendly for every element.
+
+What problems is Intercom solving and how is that benefiting you?
+There are multiple cases that recur daily. Macros saves a lot of time.",True
+10253995,2024-09-18T00:00:00,4.0,Small-Business(50 or fewer emp.),Assistant Lead,"What do you like best about Intercom?
+Best thing is that: we list our customers to waiting longest. This is very help for us.
+
+What do you dislike about Intercom?
+We dont add custom app extras, this is very tight region for us.
+
+What problems is Intercom solving and how is that benefiting you?
+We list our clients with name, priority, waiting time, closed or open conversation etc. This is very helpful",True
+10026764,2024-08-20T00:00:00,5.0,Mid-Market(51-1000 emp.),Patient care advocate,"What do you like best about Intercom?
+It provides a summary after each closed chat and its so much accurate
+easy to use
+it has made my work more efficient
+
+What do you dislike about Intercom?
+limited customization options
+the cost is alot
+their customer support is not that helpful
+
+What problems is Intercom solving and how is that benefiting you?
+Its copilot mode helps to resolve alot of the customer problems. Also they platform is very user friendly unlike a few I have used earlier.",True
+9886853,2024-07-12T00:00:00,5.0,Enterprise(> 1000 emp.),Senior Customer Success Partner,"What do you like best about Intercom?
+I love that I can easily create my macros, I can track if my customers have seen my last message, I can create campaign and only target certain customers and more
+
+What do you dislike about Intercom?
+Sometimes customers says that our intercom emaisl goes to their spam .. not sure if thats something intercom can improve.
+
+What problems is Intercom solving and how is that benefiting you?
+I am solving lots of problems specially with customer engagement messages, optmizing my time with my macros, and helping my colleagues when needed as I can see their inbox.",True
+10323938,2024-09-30T00:00:00,5.0,Small-Business(50 or fewer emp.),Tecnico de IT,"What do you like best about Intercom?
+It is good to be able to integrate forms into the chat window to receive information from our clients.
+
+What do you dislike about Intercom?
+So far, I haven't found anything I don't like.
+
+What problems is Intercom solving and how is that benefiting you?
+We use it to gather data on folios for the purchase of evaluations.",False
+10268894,2024-09-18T00:00:00,5.0,Small-Business(50 or fewer emp.),Technical Support Specialist,"What do you like best about Intercom?
+The FinAI bot is just amazing!! The way it tailors answers from the database depending on the type of question asked is just miraculous.
+
+What do you dislike about Intercom?
+I haven't noticed any yet to be honest!!
+
+What problems is Intercom solving and how is that benefiting you?
+Responding to customer queries quicky with the use of FinAI bot is just amazing!",True
+10012291,2024-08-16T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Support,"What do you like best about Intercom?
+I like how easy it is to use it and like how it looks too. Also, love the fact that new features are appearing.
+
+What do you dislike about Intercom?
+It's hard to say tbh. I would just recommend to keep up the great work and never stop. :)
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows our customers to contact us via chat and we can help them with any issues they have.",False
+10345480,2024-10-07T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Service Agent,"What do you like best about Intercom?
+Easy to use for Chats and it helps you to respond quickly using Macros.
+
+What do you dislike about Intercom?
+Nothing I will be lying if I say there's something I don't like
+
+What problems is Intercom solving and how is that benefiting you?
+Auto reply and Macros for quick response.",False
+9926617,2024-07-26T00:00:00,4.5,Mid-Market(51-1000 emp.),Account Manager,"What do you like best about Intercom?
+Organisation of messages and bucket system works great, snoozing and closing message threads keeps everything tidy and allows you to focus on the queries or messages that need prioritising.
+
+What do you dislike about Intercom?
+Sometimes messages can get lost or assigned to the wrong person but this is usually user error as opposed to anything wrong with the tools available on Intercom
+
+What problems is Intercom solving and how is that benefiting you?
+It lets us organise and effectively manage customer communication and management of accounts",True
+9213551,2024-02-12T00:00:00,4.5,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I'm impressed on how the Intercom was designed. You are like talking to the other user on the other side because you have the ability to check if the recipient has viewed your message or not. You can conveniently engage in conversation and access the conversation history. When you get tagged by someone, you would know who it is and you will be reminded by the alerts. The use of Macro and AI technology is highly beneficial and innovative. The frequecy of use of this service, a business relationship is build with your client and by doing so it makes them feel at ease. Connecting with customer support is effortless, whether you are using a phone or a business computer. The user-friendly functions are easily accessible at any time. The software's impressive technology gives a user the convenience and time-saving. The use of this software is highly recommended as it makes our life easy.
+
+What do you dislike about Intercom?
+It's not linking the previous conversation that created a new ticket.
+It load a bit slow sometimes
+
+What problems is Intercom solving and how is that benefiting you?
+It helps us with our transactions by showing the history of our conversation. We can easily track each discussions.",True
+10372824,2024-10-15T00:00:00,5.0,Small-Business(50 or fewer emp.),Senior Manager - Business Development,"What do you like best about Intercom?
+Faster Response to Live Enquires and CS enquires
+
+What do you dislike about Intercom?
+Shows Gmail Enquires also which should be stopped
+
+What problems is Intercom solving and how is that benefiting you?
+Getting More Business Via Website Visits and Live Intercation with our Customers",True
+9771569,2024-06-11T00:00:00,4.0,Small-Business(50 or fewer emp.),Technical support excutive,"What do you like best about Intercom?
+The option to snooze chats and the ease of closing them. Automated blurbs
+
+What do you dislike about Intercom?
+Should have a option to send messages using enter button.
+It should have a feature to set your status to away while replying to the current chat, that way we can stay active on current chat and not get assigned new chats before going on a break.
+
+What problems is Intercom solving and how is that benefiting you?
+It is making life easier for me and my clients by having a chat about their concern without getting into the hassel of getting on a call for petty concerns.",False
+10559687,2024-11-25T00:00:00,3.5,Enterprise(> 1000 emp.),Application Support Manager,"What do you like best about Intercom?
+AI integration has been great, lots of innovation at regular pace.
+
+What do you dislike about Intercom?
+Intercom doesnt have features other competitors have out of the box. Certain functionality is locked behing paywalls such as Custom Reports or overcomplicated (tickets and conversations?!)
+
+What problems is Intercom solving and how is that benefiting you?
+Provide efficient and quick support to our users.",True
+9940735,2024-07-31T00:00:00,5.0,Small-Business(50 or fewer emp.),Multifamily Ninja,"What do you like best about Intercom?
+Easy, intuitive setup, they model what good implementations look like in their own product which was super helpful in designing the support and onboarding interfaces for our product guided.
+
+What do you dislike about Intercom?
+I have not encountered anything yet that I would say that I disliked
+
+What problems is Intercom solving and how is that benefiting you?
+everything customer facing --- streamlined and progressive onboarding that is just in time for our customers, customer support, help desk, documentation, ticketing system",False
+9891597,2024-07-15T00:00:00,5.0,Mid-Market(51-1000 emp.),Head of Customer Success,"What do you like best about Intercom?
+The way that the product is perfect to engage and communicate with clients.
+
+The possibility to integrate my client base is a differential, and the automations in contact are saving my year
+
+What do you dislike about Intercom?
+It has been lacking in the CRM department. I would love to have a relationship manager inside Intercom
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is present in all my customer journey, from onboarding to churn. It is responsible for support across all channels as well.",True
+10035767,2024-08-22T00:00:00,4.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I use Intercm to interact with my customers. It is very useful tool allowing quick info sharing with customers as live chat and screenshot sharing.
+Also useful is the ""ring alert"" when a new message comes up.
+
+What do you dislike about Intercom?
+When you make a typo it is not possible to edit your chat again and correct. To do that you need an admin that allows you to do it.
+
+What problems is Intercom solving and how is that benefiting you?
+It is useful when a customr wants to quicly interact with Customer Success team before going to the Support team opening a ticket.",True
+10362679,2024-10-11T00:00:00,4.5,Small-Business(50 or fewer emp.),Co-Founder and CMO,"What do you like best about Intercom?
+It's a really robust chat program for providing great product support.
+
+What do you dislike about Intercom?
+It was a little complicated to set up. It took our team a few weeks to create the plan for how to set up and use intercom.
+
+What problems is Intercom solving and how is that benefiting you?
+We want to streamline how our CSRs interact with customers. We wanted a central inbox and repository of articles so customers can self-help before accessing support.",False
+9868188,2024-07-06T00:00:00,4.0,Small-Business(50 or fewer emp.),Customer support and loyalty specialist,"What do you like best about Intercom?
+I love the Ai feature intercom implemnets
+
+What do you dislike about Intercom?
+I dislike how the shortcuts can get triggered with a single key stroke, sometimes when I'm typing, If i click away from the text box without paying attention  I end up triggering one
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping us and our team support our costumers in a timely manner while allowing them access to self serve articles for issues or questions they might have in an innovative way",True
+9784821,2024-06-13T00:00:00,5.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+The most helpful thing is that it is easy to use. You can easily assign the conversations between different teams or users.
+It is easy to implement it into any application. The team is very attentive and will keep you up to date with the lastest updates, if you run into any problems the CS team solves it very fast.
+Our company uses it on a daily basis. It has alot of other useful features, such as articles, reports and you can also save contacts in it.
+It's fairly easy to integrate into any team.
+
+What do you dislike about Intercom?
+Currently in my field (customer support) there are really no things I dislike about it.
+
+What problems is Intercom solving and how is that benefiting you?
+It helps with the speed of solving the problems of our costumers.",True
+10560328,2024-11-25T00:00:00,5.0,Small-Business(50 or fewer emp.),Director of operations,"What do you like best about Intercom?
+The ecossystem of funtions is very useful for our company
+
+What do you dislike about Intercom?
+The lack of selling functions, mainly talking about ecommerce
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is very useful when talking about the data end the helpdesk, it gave us a 360 view of our support.",True
+10043222,2024-08-23T00:00:00,4.5,Mid-Market(51-1000 emp.),Account Executive,"What do you like best about Intercom?
+Being able to see what our trial accounts are up to and being able to communicate directly with them while they are in active search mode.
+
+What do you dislike about Intercom?
+Some of the menus are less than intuitive.
+
+What problems is Intercom solving and how is that benefiting you?
+keeping our Sales and Technical teams in continual contact with our prospects and clients.",False
+10319604,2024-09-30T00:00:00,5.0,Mid-Market(51-1000 emp.),Operations Assistant,"What do you like best about Intercom?
+the best thing is to easily use it for solving Customer Problems
+
+What do you dislike about Intercom?
+no direct contact using WhatsApp for Customers
+
+What problems is Intercom solving and how is that benefiting you?
+Successfully managing customer issues and effortlessly forming contracts with them.",False
+10356039,2024-10-09T00:00:00,5.0,Small-Business(50 or fewer emp.),Head of business operations,"What do you like best about Intercom?
+Workflows, data , dashboards, and automation
+
+What do you dislike about Intercom?
+Customer service response time , they have never reply to me in time
+
+What problems is Intercom solving and how is that benefiting you?
+Lean Operations and information flow",True
+9861759,2024-07-04T00:00:00,5.0,Enterprise(> 1000 emp.),Customer Experience Associate,"What do you like best about Intercom?
+There is too many options you can choose. Intercom has option for every different type of person. It's not lagging/crashing, it's very fast. I would recommend it 10/10.
+
+What do you dislike about Intercom?
+I don't have anything that interrupts my work in Intercom. Everything is perfect.
+
+What problems is Intercom solving and how is that benefiting you?
+I can chat with people, without experiencing any issues while chatting. I tried so many different chat platforms, and all I can say is that Intercom is the best too far.",False
+9792509,2024-06-14T00:00:00,5.0,Mid-Market(51-1000 emp.),Technical Support Executive,"What do you like best about Intercom?
+The interface of the tool is very userfriendly and I am able to locate all the clients information in the tool itself which helps in taking quick actions.
+Effectiveness of the AI chatbot in asssiting clients to resolve their issues.
+
+What do you dislike about Intercom?
+Sometime chats stay unassigned for couple of hours.
+
+What problems is Intercom solving and how is that benefiting you?
+In resolving clients issues and I am able to communicate with the clients effectively.
+I can gather all the clients information in one signle tools which makes the troubleshooting more effective and quick.",True
+10628015,2024-12-10T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+It's easy to use for communication to partners.
+
+What do you dislike about Intercom?
+All is working and fine. All good and easy to use.
+
+What problems is Intercom solving and how is that benefiting you?
+It's easy to xommunocate with partners to addressed their concerns.",True
+9766520,2024-06-09T00:00:00,5.0,Mid-Market(51-1000 emp.),Techinical support executive,"What do you like best about Intercom?
+It's super user fredindly where we get an ease to chat with clients and get over all details of clients on single page. Easy to navigate and easy to use. Easy to handle multiple chats.
+
+What do you dislike about Intercom?
+It take time to load sometimes however I belive that can be fixed. It should have a feature to connect to salesforce cases.
+
+What problems is Intercom solving and how is that benefiting you?
+It gives me all information at one place. I am able to review previouc coversatins with an ease. It's a super user freindly tool.",True
+9869466,2024-07-07T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Being able to proactively reach out to speific groups of users all at once is incredibly helpful. In-app messages for specific users is amazing. A place where all of our users issues are logged makes it nice and easy.
+
+What do you dislike about Intercom?
+Things do seem to move around all the time or slightly change. It's not exactly an issue becuase it shows Intercom is constantly improving and striving for the best. But when you're familiar with a certain workflow and it gets moved or changed it can be confusing.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercoms AI support is amazing and saves our company hours daily by not having to respond to repetitive/easy tickets.",True
+10279851,2024-09-19T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+everything run so smoothly. The overview and the looks makes this software the best for customer support.
+
+What do you dislike about Intercom?
+It is really hard to tell what to dislike about this service. I really like every part of it. Maybe that one should be able to delete a bad review if it was made because the system was having an error or network difficulties.
+
+What problems is Intercom solving and how is that benefiting you?
+The chat conversations are managed by intercom.",False
+9512357,2024-04-05T00:00:00,5.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I think it's the most robust customer engagement and support tool out there. And at the same time, it's easy to use and has virtually no learning curve. I use it for pretty much everything: chat and email support, which is smooth both for our users (customer-facing experience) and our team. There's a wealth of options like enriching customer data with custom attributes, all data about our customers is at our fingertips and it's seamlessly integrated with our tech stack. I could go on about Intercom's support features forever. Let me just say:the do the trick. We run our Help Center on Intercom, too. Their Help Center feature has recently been revamped, making it best-in-class. It has modern UX, UI, and offers countless customization options. I also use Intercom for targeted customer engagement, like for sending out in-apps, displaying baners, and more. For our early-stage start up, it has everything we need - plus there's a ton of features they offer which we currently don't need, but it's reassuring they are there for when we scale up. Their support turnaround times have improved immensely recently, which is important for us, given that we're based in Europie. Honestly, I'm a bit of a fanboy. Each SaaS company I've worked in had Intercom set up right when I was onboarded. In my last role, I got the team to transition to Intercom. It's great and easy to implement.
+
+What do you dislike about Intercom?
+The pay per email sent (for customer engagement emails) pricing could be less expensive. I'd like to see the dark mode across the whole app, rather than only help desk. On rare occassions, there are momentary lapses, but they are quickly sorted out.
+
+What problems is Intercom solving and how is that benefiting you?
+We use Intercom for supporting our customers via chat and by email. Our Help Center runs on Intercom. We also send out customer engagement messagse via in-app and email, use banners, and other features. It's integrated with our product and tech stack, making support and engagement seamless and easy. We use it for a multitude of use cases and all things customer support and engagement. Despite the large number of features, they're perfectly synced with one another and using Intercom is smooth sailing. Intercom saves me a lot of time and headaches in staying on top of customer expectations, and I know that using it, I can expect top-tier, cutting-edge features that are in line with the newest SaaS trends and help our customer operations look modern.",True
+9874785,2024-07-09T00:00:00,4.5,Small-Business(50 or fewer emp.),Coordinator,"What do you like best about Intercom?
+How easy it is to manage and how you are able to leave notes in each ticket.
+You can create bots or specific flows for audiences.
+
+What do you dislike about Intercom?
+It is a bit messy how to manage roles and all the things it has, you have to always check the help center.
+
+What problems is Intercom solving and how is that benefiting you?
+Easy and live communication with clients. Works perfect as a help center and q&a center",True
+10253323,2024-09-15T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Concierge,"What do you like best about Intercom?
+User-friendly, helpful, and organized tool.
+
+What do you dislike about Intercom?
+There are no aspects of the intercom system that are objectionable.
+
+What problems is Intercom solving and how is that benefiting you?
+Facilitate the documentation of calls and interactions in a streamlined and organized manner.",False
+10255709,2024-09-16T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I love the UI, it is very intuitive and has a wealth of features at the same time!
+
+What do you dislike about Intercom?
+The reports section used to gain insight from your customer conversations could use some work towards improvement!
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is working on showcasing their AI security posture so that is great because they want to show companies how secure their new AI tools can be to reassure companies.",True
+9096693,2024-01-10T00:00:00,4.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Intercom is a great way to provide customer service for a company. It is a seamless and easy way to interact with your users and help them with questions, issues, etc.. The Help Desk is easy to use and is a much better way of handling customer service than over the phone. Being able to manage inbound, outbound, help articles, notifications, and more in one platform is so great. The wait time to talk with a customer service rep from Intercom is a little long but each time they are always incredibly nice and extremely helpful! They are all very easy to talk to and always involve gifs and emojis, making it more fun to chat! Intercom provides a home page on the bubble within your product that you can customize which I really like. This allows me to update the home page to inform users of new builds, issues, updated help articles, and more.
+
+What do you dislike about Intercom?
+Certain aspects of Intercom is quite a learning curve unfortunately. Creating workflows, organizing users/companies, and trying to add certain automations can be difficult to learn and time consuming. You definitely have to give certain aspects of Intercom a fair bit of time to get the hang of it. Fortunately, it is only for additional items and not your everyday sections of Intercom. I have been working with Intercom for almost one year now and I'm still trying to find time to allow myself to be better familiar with workflows to improve my day-to-day tasks. The help articles can sometimes be a little difficult to follow which makes it hard to use them when wanting to learn certain areas in Intercom.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has solved removing the exhausting and out-dated telephone customer service. It is so much nicer to handle customer service through a digital messaging service instead of phone call after phone call. Phone customer service can be draining to ones mental health making their job more difficult and make one not enjoy their work as much. Intercom has created an amazing way to finally move on from phone customer service! Intercom is also solving the organization of your customer service. Having everything in one platform is amazing to be able to easily link help articles, tickets, etc. to conversations to keep track of what your users are dealing with.",True
+10054676,2024-08-27T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Intercom is an excellent tool for managing a shared customer support inbox. It makes it clear which queries are assigned to which team/person and the ability to add internal notes to a conversation is very useful.
+
+What do you dislike about Intercom?
+It becomes very expensive to use some of the more advanced tools for a small team. We are also having a bit of trouble getting the phone system to recognise our users when they call in.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is allowing us to manage all our inbound customer support queries effectively. A traditional email inbox can be difficult to assign conversations and keep track of who is responsible for which queries. But intercom solves this for us.",True
+10545177,2024-11-21T00:00:00,5.0,Small-Business(50 or fewer emp.),CEO,"What do you like best about Intercom?
+Tech is awesome, and saves us so much time.
+
+What do you dislike about Intercom?
+Nothing for now, onboarding and use is easy to learn
+
+What problems is Intercom solving and how is that benefiting you?
+Saves development time, becasue tooltips and notifications can we managed in intercom.",False
+9892338,2024-07-15T00:00:00,5.0,Enterprise(> 1000 emp.),Client Engagement Executive,"What do you like best about Intercom?
+Number of features, easy to use and best application for customer support, we use the application on daily basis and it has improved our written cumminication with the fasted problem solving skills.
+
+What do you dislike about Intercom?
+Nothing to dislike about the application
+
+What problems is Intercom solving and how is that benefiting you?
+Helping the clients way faster than expected and is ease for both clients and business to work effortlessly",True
+10292107,2024-09-23T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+The overall UI is very comfortable to use and integrations make it even more convenient to manage all types of support queries.
+
+What do you dislike about Intercom?
+There were a few bugs when the new UI was released - however, these have all been fixed.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping us by forwarding all support queries into a single inbox where we can effectively manage them.",False
+9659890,2024-05-16T00:00:00,0.0,Small-Business(50 or fewer emp.),Founder & Head of Technology,"What do you like best about Intercom?
+Software is fine. Many features an a great Messenger. Pretty easy to integrate the messenger into ones frontend.
+
+What do you dislike about Intercom?
+Very expensive, has a 12 month contract forcing the customer to pay for 12 months even if they would like to cancel early due to financial or other reasons.
+
+Customer support is (sometimes) aggressive and slow (generally).
+
+We've used Intercom for about 2-ish years on a daily basis.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows us to have an inbox that recieves emails and social media messages in one unified place.",True
+8059661,2024-04-19T00:00:00,5.0,Mid-Market(51-1000 emp.),Partner operations,"What do you like best about Intercom?
+Intercom is helpful in our business in improving our customer service. Intercom also the best when it comes to see if the customer is satisfied with the response.
+
+What do you dislike about Intercom?
+The intercom's least helpful thing is when it is being used, it can become a bit lag due to a lot of chats. To have this solved it needs more updates in the UI.
+
+What problems is Intercom solving and how is that benefiting you?
+A lot of our customer and partners are having problems in using our own app. Here is where we can assist and navigate the app. This is the way we use intercom in our business.",False
+9868532,2024-07-07T00:00:00,4.5,Small-Business(50 or fewer emp.),Sr Associate Customer Success,"What do you like best about Intercom?
+The app-friendly interface. Easy to use. And the continuous effort to improve the software.
+
+What do you dislike about Intercom?
+Everything is good. Except it takes a lot of time for the support team to get back if you have any questions.
+
+What problems is Intercom solving and how is that benefiting you?
+It runs our chatbot; we use it for our help article. Intercom is an important software for our communication with our clients.",True
+9672669,2024-05-20T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+It's very easy to get started as a user. Your learn the plattform very quiclky and there is great guides to help you.
+
+What do you dislike about Intercom?
+Some times a little bit to simple, if that's a thing. Would love to be albe to customize the workflow even more.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is the platform for all our comminucation towards the endusers of our product. We use the chat for our support and the help center to create guides and articles for the end user to use.",False
+10452456,2024-11-04T00:00:00,5.0,Enterprise(> 1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I love that intercom is very easy to use. It helps me stay on track with my next response times via the use of notes.
+
+What do you dislike about Intercom?
+The issue that we have had is when someone wants to go back and edit a previous survey response, the clients have been unable to do that.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping me effectively communicate with all customers and quickly! This is helping me reach my KPI's and goals.",False
+9606559,2024-05-09T00:00:00,5.0,Mid-Market(51-1000 emp.),customer concierge,"What do you like best about Intercom?
+I can easily navigates chat and communicate with our customers faster. Also, I don't need to use other AI tools anymore because there is a built in on Intercom and it is way easier!
+
+What do you dislike about Intercom?
+I am experiencing delays in receiving intercom conversations and it is challenging for me to take notes.
+
+What problems is Intercom solving and how is that benefiting you?
+Utilizing AI to rephrase my sentences greatly enhances our ability to effectively address customer concerns, making it even more convenient for me as a customer support agent. Thank you for implementing this helpful tool!",True
+9954472,2024-08-02T00:00:00,5.0,Small-Business(50 or fewer emp.),Financial Department,"What do you like best about Intercom?
+How you can use your email and whatsapp in the same place.
+
+What do you dislike about Intercom?
+I wish that we could send audios in whatsapp.
+
+What problems is Intercom solving and how is that benefiting you?
+We can keep all the comunication in one place, that way everybody is able to see the messager and help if need.",True
+9419923,2024-03-13T00:00:00,3.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Intercom's main screen is user-friendly and I love that I can toggle between light and dark screens. It also is easy to navigate between your inbox and other inboxes. There are several features available for use that have been super great for campaigns to customers. The best feature is the bot or fin. It's super trainable and we currently have a 70% resolved score.
+
+What do you dislike about Intercom?
+It is difficult talking to support, each person comes back with a different answer and sometimes it takes days to get a response back or no response at all when trying to contact a human. Due to this getting new feature add-ons is a pain and the add-ons are very expensive. We also weren't aware we had as many features as we did within our initial subscription. The biggest pain point myself and my team has is with reporting. The reports are confusing and when we try to recreate custom reports for teams, they never align with pre-made reports. We always just hope the numbers are accurate. Tagging for reports is not ideal and it would be great if you could just separate reports by teams.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has helped us tremendously with easy questions and conversations. The chatbot we have trained saves us over 600 human working hours monthly, which is huge. It has also been great fro running campaigns to customers.",True
+9516769,2024-04-08T00:00:00,4.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+Compared to other alternative platforms, Intercom has a:
+- Better UI and UX,
+- Flexibility with integrations, bots, and features
+- Readable and clear-to-understand reports
+
+What do you dislike about Intercom?
+Some latest feature releases were not as good as they could be but at least they're working on them.
+The mobile app provides a limited experience and could be improved a lot.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps to connect me with customers with ease, provide the necessary information in many forms, and keep in touch with them afterward. The platform is easy to use on both sides and helps a lot in managing the conversations.",True
+9812676,2024-06-20T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+The mail-merge function of being able to send to all users easily, custom configuration to needs of customers, analytic tools, tooltips, easy surveys in-app...
+
+What do you dislike about Intercom?
+Usage analysis would be helpfull to see the frequent user logins of users. Currently only supports the total amount of sessions.
+
+What problems is Intercom solving and how is that benefiting you?
+Keeping user up to date on new features releases, fast response rate for problems users have,  tooltips that help our users in understanding certain features without extra development work, product tours to guide our user better understand the solution, and also in survey questions that help us understand the needs of our users.",True
+9389189,2024-03-06T00:00:00,3.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+The platform itself is pretty great. The automations are pretty good although I do wish there was a bit more customization but I'm able to achieve most of my goals. My support team loves working out of Intercom and has made great views for themselves to ensure efficiency. I can't speak to Implementation or Integration since I adopted it and did not set it up when I joined my company. Their AI chatbot is also really awesome. We're planning to grow with that and I'm really optimistic that it'll only get better. Overall, I would definitely recommend Intercom the software. It's got everything I need. The reporting is also really helpful and extremely easy to build if you wanted to make custom reporting.
+
+What do you dislike about Intercom?
+Bulk actions are basically not supported almost at all. If you want to mass remove a tag for users for example you have to do a really wild and time confusing workaround. I adopted Intercom and I wanted to clean up a bunch of things but was always met with workarounds and no easy solutions. The Support (support team) is pretty good although they lack one fundamental piece which is anticipating the customers needs. Something I train my own Support team to keep top of mind as customers usually tend to think about the current/short term goal and not the long term affects - saving headaches, confusion, and clean up. The CS team is also good but lack of follow up and consideration for customers time is lacking (I had a similar experience with their Engineering team, no follow up). I made a huge change which took me 2 weeks to fully complete and it was due to lack of support, even after reading through the help center and reaching out to Support, it caused a complete waste of time due to consequences I was not aware of (again, not something that I was prepared for even after reaching out to Support or reading the help center - I don't know what I don't know).
+
+What problems is Intercom solving and how is that benefiting you?
+Responding to Customer inquiries in a centralized place that allows us to prioritze based on SLA and Tier.",True
+9815865,2024-06-20T00:00:00,1.0,Small-Business(50 or fewer emp.),CMO,"What do you like best about Intercom?
+Their website and what they say they can do.
+
+What do you dislike about Intercom?
+Their sales and customer service teams are nonexistent?  I cannot get anyone to respond to my inquiries.  I've filled out the Contact Sales form multiple times and no response whatsoever.  Not even an automated one.  I've gotten on chat and chatted with someone.  And part way through they just ignored me.
+It's so ironic for a Customer Service platform to have the absolute worst customer service I've ever experienced.
+
+What problems is Intercom solving and how is that benefiting you?
+It's not benefiting me because I can't get a sales person to respond no matter what i do!",False
+10371638,2024-10-15T00:00:00,5.0,Enterprise(> 1000 emp.),Account Executive,"What do you like best about Intercom?
+Ease to use and the detailed information is the highlight
+
+What do you dislike about Intercom?
+I don't have a part that I dislike, everything is nice to have and use
+
+What problems is Intercom solving and how is that benefiting you?
+The access to our platform and all the pages that they have reviewed",True
+9866723,2024-07-05T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support Manager,"What do you like best about Intercom?
+I love the macros and reports. They speed up the process daily, and they provide valuable insight to how my teammates are doing!
+
+What do you dislike about Intercom?
+The conversation attributes can be a bit buggy sometimes, and the bump settings can be unclear at times.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows us to help out our customers daily!",True
+10369917,2024-10-14T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+Marco can help me save time spent on most repetitive tasks.
+
+What do you dislike about Intercom?
+Cannot insert tables in the chat box. Editing features are limited.
+
+What problems is Intercom solving and how is that benefiting you?
+It allows users to independently find solutions to their issues, reducing the pressure on supporter.",True
+9394175,2024-03-07T00:00:00,2.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+- Fairly intuitive interface for talking to customers who have reached out.
+- Nice ""notes"" feature.
+- Tickets are annotated with rich fields which makes it easy to catch up on context when chatting with a customer.
+
+What do you dislike about Intercom?
+- Really easy to lose track of tickets that get re-assigned, or threads you are only tagged in.
+- Cannot use the mobile app for some reason (can't login through SSO)
+- I do not understand the new ""Status"" feature and why it is useful to me.
+- I get random pings when the tab is open but when I switch to the tab I don't see any new messages for me specifically.
+
+What problems is Intercom solving and how is that benefiting you?
+It's the interface that I use at my job to talk to customers who run into bugs or are experiencing issues using our product. I have to do this as part of an engineering on-call rotation.",True
+9808312,2024-07-06T00:00:00,4.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+It is helpful with customer supporting, I like that I can close the chats on my own and the rating afterwards. Also the previous conversations tab is very helpful to ease my job!
+
+What do you dislike about Intercom?
+It sometimes lags a bit too much unfortunately. I would also like some more colors for the platform, as it is not that ""aesthetically pleasing"".
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping me write quickly with macros, which is very useful, so that means I get better results at my work and more satisfaction from our costumers.",False
+9888350,2024-07-13T00:00:00,4.5,Mid-Market(51-1000 emp.),Customer Care Agent,"What do you like best about Intercom?
+Easy to use, have a lot of features, connect our team with ease, nice interface, the update of ai seems promising and nice macro system.
+
+What do you dislike about Intercom?
+The new AI system is great but need more development.
+
+What problems is Intercom solving and how is that benefiting you?
+Live Chat is so easy and comfortable using Intercom.",True
+9966679,2024-08-06T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success Manager,"What do you like best about Intercom?
+Intercom has easy-to-use tools and useful reports
+
+What do you dislike about Intercom?
+It would be useful to have Finnish language as an option in the service
+
+What problems is Intercom solving and how is that benefiting you?
+You can do most of the customer communication in one place",True
+9690434,2024-05-22T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer Concierge Specialist,"What do you like best about Intercom?
+Intercom is a good choice for Customer satisfaction and it comes with features such as user journey mapping, self service support, in-app support, and Interactive user guides.
+
+What do you dislike about Intercom?
+None at all. Because it is very easy and friendly to use.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is great for automated messaging to reach out to our clients, especially in the onboarding phase. Easy to use and very helpful also when it comes to AI chatbots.",True
+10254357,2024-09-16T00:00:00,4.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I have everything in one app, the UI is great, easy and fast.
+
+What do you dislike about Intercom?
+AI functions could be better. The langauge in thich the ""AI summary"" summarizes the text could be selected.
+
+What problems is Intercom solving and how is that benefiting you?
+Our CRM software of choice is Intercom, it helps us communicate on many channels using only one platform.",True
+10023214,2024-08-19T00:00:00,5.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+What our team enjoyed about Intercom was the ability to feed the bots a massive amount of information on our site that could be used to triage visitors to our resources efficiently and accurately.
+
+What do you dislike about Intercom?
+Needing to refresh the connection between the social accounts.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom is helping to centralize all communications coming in regarding our wildfire surivor assistance directly on our recovery/resource website.",True
+9320557,2024-02-22T00:00:00,4.0,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I like the interconnectedness of the Intercom platform, being able to contact my users, segment my support, track events and provide the right help at the right time all based on one source of data and truth. The help center product has come a long way too, being able to send specific subheadings within an article directly in a support conversation is super helpful.
+
+What do you dislike about Intercom?
+I don't like the experience of updating conversation data, I wish this could be done with keyboard shotcuts, instead I often end up accidentally triggering the wrong ones when trying to search for  conversatoin data because the input box hasn't got focus. Then I have to wait a couple of seconds before I can close the conversation or I have to enter it again. It's a minor, but frequent annoyance. If they fixed this, I'd give a 10 score.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom helps me to support my customers at scale. I use targeted custom bot flows to gather the right information from people with issues saving me a huge amount of time. I send articles frequently to answer customer questions and encourage people to self-serve in future. Intercom's article suggestions reliably resolve a few hundred conversations for me each week.",True
+8946534,2023-12-07T00:00:00,4.5,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+Intercom is simple to use.
+
+Before starting my current job where intercom is our main form of communicating with customers, I had never heard or used intercom.
+
+After completing my training (In under 2 weeks instead of 4!) I was confident in using Intercom alone.
+
+The ability send macros and allowing Resbot to attempt to answer our customer supports most common questions is great as this allows us to spend more time with customers who need that extra help.
+
+What do you dislike about Intercom?
+Personally I believe Intercom does not have any cons.
+
+Myself and my team will be introducing 'Back office' tickets and looking to explore Fin within the next quarter.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom directs our customers to our most asked queries and FAQ's, which some customers often miss.
+
+This saves the customer support team lots of time to focus on bugs and incidents that our customers are facing instead of general queries.",True
+10037825,2024-08-22T00:00:00,4.5,Small-Business(50 or fewer emp.),NOT GIVEN,"What do you like best about Intercom?
+I love how you can do so much within Intercom; setting up workflows, help articles and reporting. It's helps our small team accomplish a lot!
+
+What do you dislike about Intercom?
+Nothing of note. More features in the standard plan would be helpful.
+
+What problems is Intercom solving and how is that benefiting you?
+Solving the problem of quick customer questions. We can easily respond and help customers as they use our platform.",False
+9771541,2024-06-11T00:00:00,5.0,Enterprise(> 1000 emp.),Senior Technical Support Specialist,"What do you like best about Intercom?
+Navigation is user-friendly, due to which the chat we receive are being taken care off easily by everyone.
+
+What do you dislike about Intercom?
+At times some of the historical chats are not visible instantly, it takes about 2 to 3 seconds to come up.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom allows our clients to communicate easily at any point in time, throughout the day.",False
+9814278,2024-06-20T00:00:00,4.0,Small-Business(50 or fewer emp.),Community Manager,"What do you like best about Intercom?
+Easy to manage conversations between our team, great analytics and great way of adding a complete helpcenter with articles
+
+What do you dislike about Intercom?
+Every extra tool costs money which makes the tool very expensive if you wish to expand to a new feature
+
+What problems is Intercom solving and how is that benefiting you?
+Easy communication with customers
+Easy sharing of knowledge via articles",False
+9871467,2024-07-08T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support Specialist,"What do you like best about Intercom?
+I really enjoy that it is the main hub I need to use for 99 percent of my job. It help keeps me organized.
+
+What do you dislike about Intercom?
+Understanding the differences between series and workflows.
+
+What problems is Intercom solving and how is that benefiting you?
+It creates our central hub for help questions.",True
+10371800,2024-10-15T00:00:00,4.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+o suporte deles é execelente e super rápido.
+
+What do you dislike about Intercom?
+acho que muita informação na tela na hora do chat
+
+What problems is Intercom solving and how is that benefiting you?
+Velocidade de respostas, ferramentas ótimas pra agilizar meu trabalho.",False
+9768683,2024-06-10T00:00:00,5.0,Mid-Market(51-1000 emp.),Tech Specialist,"What do you like best about Intercom?
+The ease of access and implementation which in turn helps support the customer as we use it frequently because of its number of features and ease of integreation with another apps
+
+What do you dislike about Intercom?
+There is nothing that significant which could be disliked
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom has made it easy to manage the customer communication in general",False
+10019432,2024-08-19T00:00:00,4.5,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+Automation is user friendly and their support team is very responsive and able to help.
+
+What do you dislike about Intercom?
+It is a bit pricey but it is worth the price since it is useful for different teams and not just the customer support
+
+What problems is Intercom solving and how is that benefiting you?
+Reply immediately to most common question using AI and only route cases who need a representative",True
+9098056,2024-07-15T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer support representative,"What do you like best about Intercom?
+Easy to use, constant updates and features, support
+
+What do you dislike about Intercom?
+Last integration with Asana, tag system is not properly working
+
+What problems is Intercom solving and how is that benefiting you?
+Interaction with our users, facilitating the communication with them, easy to implement data from the users.",False
+9766556,2024-06-16T00:00:00,4.5,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+Lots of intercom automations to use. We can also create automations which is the best feature. Nice option to add macros as per our convenience which is easy to implement in customer chat support. Since we use it daily, it helps use to respond the chats accordingly.
+
+What do you dislike about Intercom?
+Very complicated UI. Sometimes new user can get confused navigating between different tabs
+
+What problems is Intercom solving and how is that benefiting you?
+Currently we dont have any major problems to report. I am happy that Intercom sends us the outage status's whenever they have running scheduled maintenance",True
+10402659,2024-10-23T00:00:00,4.5,Small-Business(50 or fewer emp.),representative,"What do you like best about Intercom?
+all the options to comunicate with the customers
+
+What do you dislike about Intercom?
+sometimes it is slow and requires a estable connection
+
+What problems is Intercom solving and how is that benefiting you?
+comunicating with customers",False
+9763749,2024-06-07T00:00:00,5.0,Small-Business(50 or fewer emp.),Sr Technical Support Executive,"What do you like best about Intercom?
+Intercom is the best tool to chat with your stakeholders. It provides varous deatures and canned responses which helps speedy reply.
+it has cool and energetic UI.
+
+What do you dislike about Intercom?
+Sometimes live chats gets assigned to someone else.
+
+What problems is Intercom solving and how is that benefiting you?
+It helps to connect with our stakeholder and helps to provide speedy resolution via chat.",False
+8891714,2023-11-17T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Support Operations Lead,"What do you like best about Intercom?
+Over the years, Intercom has become our primary tool to service our customers, mixing chat, email support, and now a brilliant AI. Their constant innovation feels like having a tech-savvy buddy in our corner, making customer service incredibly painless for our team. It's been an uncomplicated tool to train new users on, and just as easy to scale as our team has grown over the years. I also appreciate that their team is always a quick message away if we have questions about our plan or features.
+
+What do you dislike about Intercom?
+My primary dislike would be the costs. While the basic features cover most needs, some of the more advanced capabilities and integrations will come with additional costs. As you start adding more advanced features to your contract, it's easy to begin to feel like you're being nickel and dimed.
+
+What problems is Intercom solving and how is that benefiting you?
+I've been with my team for seven years now, and during that time I've watched Intercom grow from being one of a few support tools we use to becoming the only tool we use to support our customers. The seamless integration of chat and email support has streamlined our communication channels and enhanced our overall customer service experience. Consolidating our channels into Intercom has led to a notable increase in our team's efficiency.",True
+9915130,2024-07-23T00:00:00,5.0,Mid-Market(51-1000 emp.),Customer service rep,"What do you like best about Intercom?
+easy to use not complicated to find what we need
+
+What do you dislike about Intercom?
+it lags at times or the site may glitch at times.
+
+What problems is Intercom solving and how is that benefiting you?
+having to type out long responses",True
+9917110,2024-07-23T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+Intercom’s intuitive interface and robust features make it easy to manage customer interactions and support.
+
+What do you dislike about Intercom?
+The pricing can be a bit high for smaller businesses, and some advanced features require additional costs.
+
+What problems is Intercom solving and how is that benefiting you?
+It provides a seamless way to communicate with customers through various channels, improving engagement and satisfaction. The platform helps streamline support processes, making it easier to manage and resolve customer issues quickly.",False
+10191850,2024-09-06T00:00:00,5.0,Small-Business(50 or fewer emp.),Customer Success Lead,"What do you like best about Intercom?
+Very easy to use and intuitive design. A very helpful support team.
+
+What do you dislike about Intercom?
+Minor concern, but I'd like to see the full list of the segment as opposed to only seeing a preview.
+
+What problems is Intercom solving and how is that benefiting you?
+Service desk, in app automations, segment driven email communications.",True
+8866068,2023-11-13T00:00:00,5.0,Mid-Market(51-1000 emp.),NOT GIVEN,"What do you like best about Intercom?
+I like that you can have messages sent to an email forwarded to intercom for easy ticket management.
+I love that you can write notes in the tickets and use gifs in the notes as well - this is great for having fun with the team while collaborating to resolve a ticket.
+The reports are intuitive to use.
+I love that you can create and mange articles for clients through intercom.
+The automatic tagging features are fantastic.
+I like that everyone sees the tickets - easy to collaborate.
+
+Over all a very intuitive program for a customer success team who handles incoming tickets.
+
+What do you dislike about Intercom?
+I would like the option to have a longer notification sound.
+Notifications can be delayed.
+I don't like that the ( <3 ) heart was removed/moved - this was a quick way to view your positive comments from clients.
+I don't like that the intercom mobile app does not have all the same important features as on desktop - such as I can not post pictures/gifs to notes when on mobile and I can not add a subject to the chat. I have to return to desktop to complete this.
+
+What problems is Intercom solving and how is that benefiting you?
+Intercom provides a fully open ticket managing system that allows for easy collaboration by having all team members be able to see all chats at once.",True
+9764232,2024-06-09T00:00:00,5.0,Small-Business(50 or fewer emp.),technical support executive,"What do you like best about Intercom?
+Best place to support the client via a chat.
+
+What do you dislike about Intercom?
+Nothing to improve as if for now because everything is working fine.
+
+What problems is Intercom solving and how is that benefiting you?
+It has very user friendly interface which is very easy to use and this help us to provide support to our client in much better way.",True
