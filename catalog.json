@@ -1,0 +1,369 @@
+{
+    "metadata": {
+        "dbt_schema_version": "https://schemas.getdbt.com/dbt/catalog/v1.json",
+        "dbt_version": "2026.2.5+dde6c12",
+        "generated_at": "2026-02-15T21:00:04.016712Z",
+        "invocation_id": "20a78e43-1d7c-4dfb-bb10-53e27df2c464",
+        "invocation_started_at": "2026-02-15T20:59:59.820217Z",
+        "env": {}
+    },
+    "nodes": {
+        "model.my_new_project.fct_intercom_reviews": {
+            "metadata": {
+                "type": "view",
+                "schema": "dbt_shyam_dev",
+                "name": "fct_intercom_reviews",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "review_id": {
+                    "type": "INT64",
+                    "index": 1,
+                    "name": "review_id",
+                    "comment": ""
+                },
+                "reviewed_at": {
+                    "type": "TIMESTAMP",
+                    "index": 2,
+                    "name": "reviewed_at",
+                    "comment": ""
+                },
+                "rating": {
+                    "type": "FLOAT64",
+                    "index": 3,
+                    "name": "rating",
+                    "comment": ""
+                },
+                "rating_sentiment": {
+                    "type": "STRING",
+                    "index": 4,
+                    "name": "rating_sentiment",
+                    "comment": ""
+                },
+                "company_size": {
+                    "type": "STRING",
+                    "index": 5,
+                    "name": "company_size",
+                    "comment": ""
+                },
+                "job_title": {
+                    "type": "STRING",
+                    "index": 6,
+                    "name": "job_title",
+                    "comment": ""
+                },
+                "review_text": {
+                    "type": "STRING",
+                    "index": 7,
+                    "name": "review_text",
+                    "comment": ""
+                },
+                "is_ai_relevant": {
+                    "type": "BOOL",
+                    "index": 8,
+                    "name": "is_ai_relevant",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": false,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "model.my_new_project.fct_intercom_reviews"
+        },
+        "model.my_new_project.my_first_dbt_model": {
+            "metadata": {
+                "type": "table",
+                "schema": "dbt_shyam_dev",
+                "name": "my_first_dbt_model",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "id": {
+                    "type": "INT64",
+                    "index": 1,
+                    "name": "id",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "num_bytes": {
+                    "id": "num_bytes",
+                    "label": "Approximate Size",
+                    "value": 8,
+                    "include": true,
+                    "description": "Approximate size of table as reported by BigQuery"
+                },
+                "num_rows": {
+                    "id": "num_rows",
+                    "label": "# Rows",
+                    "value": 2,
+                    "include": true,
+                    "description": "Approximate count of rows in this table"
+                },
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": true,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "model.my_new_project.my_first_dbt_model"
+        },
+        "model.my_new_project.my_second_dbt_model": {
+            "metadata": {
+                "type": "table",
+                "schema": "dbt_shyam_dev",
+                "name": "my_second_dbt_model",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "id": {
+                    "type": "INT64",
+                    "index": 1,
+                    "name": "id",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "num_bytes": {
+                    "id": "num_bytes",
+                    "label": "Approximate Size",
+                    "value": 8,
+                    "include": true,
+                    "description": "Approximate size of table as reported by BigQuery"
+                },
+                "num_rows": {
+                    "id": "num_rows",
+                    "label": "# Rows",
+                    "value": 1,
+                    "include": true,
+                    "description": "Approximate count of rows in this table"
+                },
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": true,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "model.my_new_project.my_second_dbt_model"
+        },
+        "model.my_new_project.rpt_ai_sentiment_by_segment": {
+            "metadata": {
+                "type": "view",
+                "schema": "dbt_shyam_dev",
+                "name": "rpt_ai_sentiment_by_segment",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "company_size": {
+                    "type": "STRING",
+                    "index": 1,
+                    "name": "company_size",
+                    "comment": ""
+                },
+                "total_reviews": {
+                    "type": "INT64",
+                    "index": 2,
+                    "name": "total_reviews",
+                    "comment": ""
+                },
+                "ai_relevancy_pct": {
+                    "type": "FLOAT64",
+                    "index": 3,
+                    "name": "ai_relevancy_pct",
+                    "comment": ""
+                },
+                "positive_reviews": {
+                    "type": "INT64",
+                    "index": 4,
+                    "name": "positive_reviews",
+                    "comment": ""
+                },
+                "negative_reviews": {
+                    "type": "INT64",
+                    "index": 5,
+                    "name": "negative_reviews",
+                    "comment": ""
+                },
+                "avg_rating": {
+                    "type": "FLOAT64",
+                    "index": 6,
+                    "name": "avg_rating",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": false,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "model.my_new_project.rpt_ai_sentiment_by_segment"
+        },
+        "model.my_new_project.stg_intercom__reviews": {
+            "metadata": {
+                "type": "view",
+                "schema": "dbt_shyam_dev",
+                "name": "stg_intercom__reviews",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "review_id": {
+                    "type": "INT64",
+                    "index": 1,
+                    "name": "review_id",
+                    "comment": ""
+                },
+                "reviewed_at": {
+                    "type": "TIMESTAMP",
+                    "index": 2,
+                    "name": "reviewed_at",
+                    "comment": ""
+                },
+                "rating": {
+                    "type": "FLOAT64",
+                    "index": 3,
+                    "name": "rating",
+                    "comment": ""
+                },
+                "company_size": {
+                    "type": "STRING",
+                    "index": 4,
+                    "name": "company_size",
+                    "comment": ""
+                },
+                "job_title": {
+                    "type": "STRING",
+                    "index": 5,
+                    "name": "job_title",
+                    "comment": ""
+                },
+                "review_text": {
+                    "type": "STRING",
+                    "index": 6,
+                    "name": "review_text",
+                    "comment": ""
+                },
+                "is_ai_relevant": {
+                    "type": "BOOL",
+                    "index": 7,
+                    "name": "is_ai_relevant",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": false,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "model.my_new_project.stg_intercom__reviews"
+        }
+    },
+    "sources": {
+        "source.my_new_project.intercom_raw.raw_reviews": {
+            "metadata": {
+                "type": "table",
+                "schema": "intercom_data_raw",
+                "name": "raw_reviews",
+                "database": "saas-ai-strategy-growth",
+                "comment": null,
+                "owner": null
+            },
+            "columns": {
+                "review_id": {
+                    "type": "INT64",
+                    "index": 1,
+                    "name": "review_id",
+                    "comment": ""
+                },
+                "publish_date": {
+                    "type": "TIMESTAMP",
+                    "index": 2,
+                    "name": "publish_date",
+                    "comment": ""
+                },
+                "rating": {
+                    "type": "FLOAT64",
+                    "index": 3,
+                    "name": "rating",
+                    "comment": ""
+                },
+                "company_size": {
+                    "type": "STRING",
+                    "index": 4,
+                    "name": "company_size",
+                    "comment": ""
+                },
+                "job_title": {
+                    "type": "STRING",
+                    "index": 5,
+                    "name": "job_title",
+                    "comment": ""
+                },
+                "full_content": {
+                    "type": "STRING",
+                    "index": 6,
+                    "name": "full_content",
+                    "comment": ""
+                },
+                "is_ai_relevant": {
+                    "type": "BOOL",
+                    "index": 7,
+                    "name": "is_ai_relevant",
+                    "comment": ""
+                }
+            },
+            "stats": {
+                "num_bytes": {
+                    "id": "num_bytes",
+                    "label": "Approximate Size",
+                    "value": 167068,
+                    "include": true,
+                    "description": "Approximate size of table as reported by BigQuery"
+                },
+                "num_rows": {
+                    "id": "num_rows",
+                    "label": "# Rows",
+                    "value": 200,
+                    "include": true,
+                    "description": "Approximate count of rows in this table"
+                },
+                "has_stats": {
+                    "id": "has_stats",
+                    "label": "Has Stats?",
+                    "value": true,
+                    "include": false,
+                    "description": "Indicates whether there are statistics for this table"
+                }
+            },
+            "unique_id": "source.my_new_project.intercom_raw.raw_reviews"
+        }
+    },
+    "errors": null
+}
